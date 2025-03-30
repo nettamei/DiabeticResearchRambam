@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<state xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="113" name="Heart Rate STATE" concept-type="state" description="Heart Rate STATE" semi-formal="String" source="String">
+	<categories />
+	<standard-terms />
+	<synonyms />
+	<temporal-semantic downward-hereditary="true" forward="false" backward="false" solid="false" concatenable="true"/>
+	<clippers />
+	<derived-from>
+		<derived-from-id>13</derived-from-id>
+	</derived-from>
+	<abstraction-at-contexts />
+	<mapping-function rank-selection-criteria="min">
+		<mapping-functions-to-values>
+			
+                  <mapping-function-2-value order="0" value="LOW">
+                    <evaluation-tree data-type="comparison-function">
+                      <comparison-function comparison-operator="smaller-equal">
+                          <left data-type="concept-id-allowed-values">
+                            <concept-id-allowed-values id="13" />
+                          </left>
+                          <right data-type="double">
+                            <double>60.0</double>
+                          </right>
+                      </comparison-function>
+                    </evaluation-tree >
+                  </mapping-function-2-value>
+                <mapping-function-2-value order="1" value="NORMAL">
+                  <evaluation-tree data-type="logical-function">
+                    <logical-function logical-operator="and">
+                      <operands>
+                        <operand data-type="logical-function">
+                          <logical-function logical-operator="and">
+                            <operands>
+                              <operand data-type="comparison-function">
+                                <comparison-function comparison-operator="bigger">
+                                  <left data-type="concept-id-allowed-values">
+                                    <concept-id-allowed-values id="13" />
+                                  </left>
+                                  <right data-type="double">
+                                    <double>60.0</double>
+                                  </right>
+                                </comparison-function>
+                              </operand>
+                              <operand data-type="comparison-function">
+                                <comparison-function comparison-operator="smaller-equal">
+                                  <left data-type="concept-id-allowed-values">
+                                    <concept-id-allowed-values id="13" />
+                                  </left>
+                                  <right data-type="double">
+                                    <double>80.0</double>
+                                  </right>
+                                </comparison-function>
+                              </operand>
+                            </operands>
+                          </logical-function>
+                        </operand>
+                      </operands>
+                    </logical-function>
+                  </evaluation-tree>
+                </mapping-function-2-value>
+                <mapping-function-2-value order="2" value="HIGH">
+                  <evaluation-tree data-type="comparison-function">
+                    <comparison-function comparison-operator="bigger">
+                        <left data-type="concept-id-allowed-values">
+                          <concept-id-allowed-values id="13" />
+                        </left>
+                        <right data-type="double">
+                          <double>80.0</double>
+                        </right>
+                    </comparison-function>
+                  </evaluation-tree >
+                </mapping-function-2-value>
+		</mapping-functions-to-values>
+	</mapping-function>
+	<ordinal-allowed-values output-type="ordinal">
+		<persistence>
+			<global-persistence behavior="pos-pos" granularity="second">
+				<interpolation-table>
+					<rows />
+				</interpolation-table>
+			</global-persistence>
+			<local-persistence>
+				<good-before value="0" granularity="hour"/>
+				<good-after value="0" granularity="hour"/>
+			</local-persistence>
+		</persistence>
+		<values>
+      
+                      <ordinal-allowed-value order="0" value="LOW" />
+                      <ordinal-allowed-value order="1" value="NORMAL" />
+                      <ordinal-allowed-value order="2" value="HIGH" />
+		</values>
+	</ordinal-allowed-values>
+</state>
