@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XML Spy v4.1 U (http://www.xmlspy.com) by Erez (Ben-Gurion University) -->
-<trend id="1210" name="Creatine Kinase_TREND" concept-type="trend" description="Creatine Kinase_TREND" significant-variation="10" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C:\Users\erezsh\Desktop\16.6.xsd">
+<trend id="1210" name="Creatine Kinase_TREND" concept-type="trend" description="Creatine Kinase_TREND" significant-variation="5964.265" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C:\Users\erezsh\Desktop\16.6.xsd">
   <categories />
   <standard-terms />
   <synonyms />
