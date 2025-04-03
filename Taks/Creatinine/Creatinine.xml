@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-  <numeric-raw-concept id="2" name="Creatinine" concept-type="raw-numeric" description="Creatinine" semi-formal="String" source="String" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <numeric-raw-concept id="2" name="Creatinine-BL" concept-type="raw-numeric" description="Creatinine" semi-formal="String" source="String" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <categories/>
     <standard-terms/>
     <synonyms/>
