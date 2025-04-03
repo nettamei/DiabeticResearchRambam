@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XML Spy v4.1 U (http://www.xmlspy.com) by Erez (Ben-Gurion University) -->
-<trend id="1210" name="systolic blood pressure_TREND" concept-type="trend" description="systolic blood pressure_TREND" significant-variation="10" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C:\Users\erezsh\Desktop\16.6.xsd">
+<trend id="1210" name="Creatine Kinase_TREND" concept-type="trend" description="Creatine Kinase_TREND" significant-variation="10" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C:\Users\erezsh\Desktop\16.6.xsd">
   <categories />
   <standard-terms />
   <synonyms />
   <temporal-semantic downward-hereditary="true" forward="true" backward="true" solid="true" concatenable="true" gestalt="true" />
   <clippers />
   <derived-from>
-    <derived-from-id>1010</derived-from-id>
+    <derived-from-id>2</derived-from-id>
   </derived-from>
   <abstraction-at-contexts />
   <gradient-trend-allowed-values output-type="ordinal">
@@ -28,6 +28,6 @@
       <ordinal-allowed-value order="2" value="INC" />
     </values>
   </gradient-trend-allowed-values>
-  <time-steady value="1" granularity="hour" />
+  <time-steady value="12" granularity="hour" />
 </trend>
 	
