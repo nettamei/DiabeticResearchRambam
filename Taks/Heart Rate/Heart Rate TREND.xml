@@ -18,7 +18,7 @@
       </global-persistence>
       <local-persistence>
         <good-before value="0" granularity="hour" />
-        <good-after value="0" granularity="hour" />
+        <good-after value="0.08" granularity="hour" />
       </local-persistence>
     </persistence>
     <values>
