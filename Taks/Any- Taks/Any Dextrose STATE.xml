@@ -6,10 +6,10 @@
 	<temporal-semantic downward-hereditary="true" forward="false" backward="false" solid="false" concatenable="true"/>
 	<clippers />
 	<derived-from>
-		<derived-from-id>3</derived-from-id>
-		<derived-from-id>6</derived-from-id>
-		<derived-from-id>5</derived-from-id>
-		<derived-from-id>7</derived-from-id>
+		<derived-from-id>17</derived-from-id>
+		<derived-from-id>31</derived-from-id>
+		<derived-from-id>30</derived-from-id>
+		<derived-from-id>18</derived-from-id>
 
 	</derived-from>
 	<abstraction-at-contexts />
@@ -22,7 +22,7 @@
                               <operand data-type="comparison-function">
                                 <comparison-function comparison-operator="bigger">
                                   <left data-type="concept-id-allowed-values">
-                                    <concept-id-allowed-values id="3" />
+                                    <concept-id-allowed-values id="17" />
                                   </left>
                                   <right data-type="double">
                                     <double>0</double>
@@ -31,7 +31,7 @@
                               </operand>                              <operand data-type="comparison-function">
                                 <comparison-function comparison-operator="bigger">
                                   <left data-type="concept-id-allowed-values">
-                                    <concept-id-allowed-values id="5" />
+                                    <concept-id-allowed-values id="31" />
                                   </left>
                                   <right data-type="double">
                                     <double>0</double>
@@ -40,7 +40,7 @@
                               </operand>                              <operand data-type="comparison-function">
                                 <comparison-function comparison-operator="bigger">
                                   <left data-type="concept-id-allowed-values">
-                                    <concept-id-allowed-values id="6" />
+                                    <concept-id-allowed-values id="18" />
                                   </left>
                                   <right data-type="double">
                                     <double>0</double>
@@ -49,7 +49,7 @@
                               </operand>							<operand data-type="comparison-function">
                                 <comparison-function comparison-operator="bigger">
                                   <left data-type="concept-id-allowed-values">
-                                    <concept-id-allowed-values id="7" />
+                                    <concept-id-allowed-values id="30" />
                                   </left>
                                   <right data-type="double">
                                     <double>0</double>
