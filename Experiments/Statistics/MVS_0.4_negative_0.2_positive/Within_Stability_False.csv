@@ -1,0 +1,1541 @@
+name,Fold,similar
+@@Pair:Albumin STATE:LOW@Contain@Albumin TREND:SAME,0,similar
+@@Pair:Albumin STATE:LOW@Contain@Albumin TREND:SAME,1,not similar
+@@Pair:Albumin STATE:LOW@Contain@Albumin TREND:SAME,2,similar
+@@Pair:Albumin STATE:LOW@Contain@Albumin TREND:SAME,3,similar
+@@Pair:Albumin STATE:LOW@Contain@Albumin TREND:SAME,4,similar
+@@Pair:Albumin STATE:LOW@Contain@Albumin TREND:SAME,5,similar
+@@Pair:Albumin STATE:LOW@Contain@Albumin TREND:SAME,6,similar
+@@Pair:Albumin STATE:LOW@Contain@Albumin TREND:SAME,7,similar
+@@Pair:Albumin STATE:LOW@Contain@Albumin TREND:SAME,8,similar
+@@Pair:Albumin STATE:LOW@Contain@Albumin TREND:SAME,9,similar
+@@Pair:Albumin STATE:LOW@Contain@Albumin TREND:SAME@@Pair:LDH STATE:NORMAL@Contain@Albumin STATE:LOW@@Pair:LDH STATE:NORMAL@Contain@Albumin TREND:SAME,0,similar
+@@Pair:Albumin STATE:LOW@Contain@Albumin TREND:SAME@@Pair:LDH STATE:NORMAL@Contain@Albumin STATE:LOW@@Pair:LDH STATE:NORMAL@Contain@Albumin TREND:SAME,1,similar
+@@Pair:Albumin STATE:LOW@Contain@Albumin TREND:SAME@@Pair:LDH STATE:NORMAL@Contain@Albumin STATE:LOW@@Pair:LDH STATE:NORMAL@Contain@Albumin TREND:SAME,2,similar
+@@Pair:Albumin STATE:LOW@Contain@Albumin TREND:SAME@@Pair:LDH STATE:NORMAL@Contain@Albumin STATE:LOW@@Pair:LDH STATE:NORMAL@Contain@Albumin TREND:SAME,3,not similar
+@@Pair:Albumin STATE:LOW@Contain@Albumin TREND:SAME@@Pair:LDH STATE:NORMAL@Contain@Albumin STATE:LOW@@Pair:LDH STATE:NORMAL@Contain@Albumin TREND:SAME,4,similar
+@@Pair:Albumin STATE:LOW@Contain@Albumin TREND:SAME@@Pair:LDH STATE:NORMAL@Contain@Albumin STATE:LOW@@Pair:LDH STATE:NORMAL@Contain@Albumin TREND:SAME,5,similar
+@@Pair:Albumin STATE:LOW@Contain@Albumin TREND:SAME@@Pair:LDH STATE:NORMAL@Contain@Albumin STATE:LOW@@Pair:LDH STATE:NORMAL@Contain@Albumin TREND:SAME,6,not similar
+@@Pair:Albumin STATE:LOW@Contain@Albumin TREND:SAME@@Pair:LDH STATE:NORMAL@Contain@Albumin STATE:LOW@@Pair:LDH STATE:NORMAL@Contain@Albumin TREND:SAME,7,similar
+@@Pair:Albumin STATE:LOW@Contain@Albumin TREND:SAME@@Pair:LDH STATE:NORMAL@Contain@Albumin STATE:LOW@@Pair:LDH STATE:NORMAL@Contain@Albumin TREND:SAME,8,similar
+@@Pair:Albumin STATE:LOW@Contain@Albumin TREND:SAME@@Pair:LDH STATE:NORMAL@Contain@Albumin STATE:LOW@@Pair:LDH STATE:NORMAL@Contain@Albumin TREND:SAME,9,similar
+@@Pair:Albumin STATE:LOW@Contain@Albumin TREND:SAME@@Pair:LDH STATE:NORMAL@Contain@Albumin STATE:LOW@@Pair:LDH STATE:NORMAL@Contain@Albumin TREND:SAME@@Pair:LDH STATE:NORMAL@Contain@LDH TREND:SAME@@Pair:LDH TREND:SAME@Contain@Albumin STATE:LOW@@Pair:LDH TREND:SAME@Contain@Albumin TREND:SAME,0,similar
+@@Pair:Albumin STATE:LOW@Contain@Albumin TREND:SAME@@Pair:LDH STATE:NORMAL@Contain@Albumin STATE:LOW@@Pair:LDH STATE:NORMAL@Contain@Albumin TREND:SAME@@Pair:LDH STATE:NORMAL@Contain@LDH TREND:SAME@@Pair:LDH TREND:SAME@Contain@Albumin STATE:LOW@@Pair:LDH TREND:SAME@Contain@Albumin TREND:SAME,1,similar
+@@Pair:Albumin STATE:LOW@Contain@Albumin TREND:SAME@@Pair:LDH STATE:NORMAL@Contain@Albumin STATE:LOW@@Pair:LDH STATE:NORMAL@Contain@Albumin TREND:SAME@@Pair:LDH STATE:NORMAL@Contain@LDH TREND:SAME@@Pair:LDH TREND:SAME@Contain@Albumin STATE:LOW@@Pair:LDH TREND:SAME@Contain@Albumin TREND:SAME,2,similar
+@@Pair:Albumin STATE:LOW@Contain@Albumin TREND:SAME@@Pair:LDH STATE:NORMAL@Contain@Albumin STATE:LOW@@Pair:LDH STATE:NORMAL@Contain@Albumin TREND:SAME@@Pair:LDH STATE:NORMAL@Contain@LDH TREND:SAME@@Pair:LDH TREND:SAME@Contain@Albumin STATE:LOW@@Pair:LDH TREND:SAME@Contain@Albumin TREND:SAME,3,similar
+@@Pair:Albumin STATE:LOW@Contain@Albumin TREND:SAME@@Pair:LDH STATE:NORMAL@Contain@Albumin STATE:LOW@@Pair:LDH STATE:NORMAL@Contain@Albumin TREND:SAME@@Pair:LDH STATE:NORMAL@Contain@LDH TREND:SAME@@Pair:LDH TREND:SAME@Contain@Albumin STATE:LOW@@Pair:LDH TREND:SAME@Contain@Albumin TREND:SAME,4,similar
+@@Pair:Albumin STATE:LOW@Contain@Albumin TREND:SAME@@Pair:LDH STATE:NORMAL@Contain@Albumin STATE:LOW@@Pair:LDH STATE:NORMAL@Contain@Albumin TREND:SAME@@Pair:LDH STATE:NORMAL@Contain@LDH TREND:SAME@@Pair:LDH TREND:SAME@Contain@Albumin STATE:LOW@@Pair:LDH TREND:SAME@Contain@Albumin TREND:SAME,5,similar
+@@Pair:Albumin STATE:LOW@Contain@Albumin TREND:SAME@@Pair:LDH STATE:NORMAL@Contain@Albumin STATE:LOW@@Pair:LDH STATE:NORMAL@Contain@Albumin TREND:SAME@@Pair:LDH STATE:NORMAL@Contain@LDH TREND:SAME@@Pair:LDH TREND:SAME@Contain@Albumin STATE:LOW@@Pair:LDH TREND:SAME@Contain@Albumin TREND:SAME,6,similar
+@@Pair:Albumin STATE:LOW@Contain@Albumin TREND:SAME@@Pair:LDH STATE:NORMAL@Contain@Albumin STATE:LOW@@Pair:LDH STATE:NORMAL@Contain@Albumin TREND:SAME@@Pair:LDH STATE:NORMAL@Contain@LDH TREND:SAME@@Pair:LDH TREND:SAME@Contain@Albumin STATE:LOW@@Pair:LDH TREND:SAME@Contain@Albumin TREND:SAME,7,similar
+@@Pair:Albumin STATE:LOW@Contain@Albumin TREND:SAME@@Pair:LDH STATE:NORMAL@Contain@Albumin STATE:LOW@@Pair:LDH STATE:NORMAL@Contain@Albumin TREND:SAME@@Pair:LDH STATE:NORMAL@Contain@LDH TREND:SAME@@Pair:LDH TREND:SAME@Contain@Albumin STATE:LOW@@Pair:LDH TREND:SAME@Contain@Albumin TREND:SAME,8,similar
+@@Pair:Albumin STATE:LOW@Contain@Albumin TREND:SAME@@Pair:LDH STATE:NORMAL@Contain@Albumin STATE:LOW@@Pair:LDH STATE:NORMAL@Contain@Albumin TREND:SAME@@Pair:LDH STATE:NORMAL@Contain@LDH TREND:SAME@@Pair:LDH TREND:SAME@Contain@Albumin STATE:LOW@@Pair:LDH TREND:SAME@Contain@Albumin TREND:SAME,9,not similar
+@@Pair:Albumin STATE:LOW@Contain@Albumin TREND:SAME@@Pair:LDH TREND:SAME@Contain@Albumin STATE:LOW@@Pair:LDH TREND:SAME@Contain@Albumin TREND:SAME,0,similar
+@@Pair:Albumin STATE:LOW@Contain@Albumin TREND:SAME@@Pair:LDH TREND:SAME@Contain@Albumin STATE:LOW@@Pair:LDH TREND:SAME@Contain@Albumin TREND:SAME,1,similar
+@@Pair:Albumin STATE:LOW@Contain@Albumin TREND:SAME@@Pair:LDH TREND:SAME@Contain@Albumin STATE:LOW@@Pair:LDH TREND:SAME@Contain@Albumin TREND:SAME,2,similar
+@@Pair:Albumin STATE:LOW@Contain@Albumin TREND:SAME@@Pair:LDH TREND:SAME@Contain@Albumin STATE:LOW@@Pair:LDH TREND:SAME@Contain@Albumin TREND:SAME,3,similar
+@@Pair:Albumin STATE:LOW@Contain@Albumin TREND:SAME@@Pair:LDH TREND:SAME@Contain@Albumin STATE:LOW@@Pair:LDH TREND:SAME@Contain@Albumin TREND:SAME,4,similar
+@@Pair:Albumin STATE:LOW@Contain@Albumin TREND:SAME@@Pair:LDH TREND:SAME@Contain@Albumin STATE:LOW@@Pair:LDH TREND:SAME@Contain@Albumin TREND:SAME,5,similar
+@@Pair:Albumin STATE:LOW@Contain@Albumin TREND:SAME@@Pair:LDH TREND:SAME@Contain@Albumin STATE:LOW@@Pair:LDH TREND:SAME@Contain@Albumin TREND:SAME,6,similar
+@@Pair:Albumin STATE:LOW@Contain@Albumin TREND:SAME@@Pair:LDH TREND:SAME@Contain@Albumin STATE:LOW@@Pair:LDH TREND:SAME@Contain@Albumin TREND:SAME,7,similar
+@@Pair:Albumin STATE:LOW@Contain@Albumin TREND:SAME@@Pair:LDH TREND:SAME@Contain@Albumin STATE:LOW@@Pair:LDH TREND:SAME@Contain@Albumin TREND:SAME,8,similar
+@@Pair:Albumin STATE:LOW@Contain@Albumin TREND:SAME@@Pair:LDH TREND:SAME@Contain@Albumin STATE:LOW@@Pair:LDH TREND:SAME@Contain@Albumin TREND:SAME,9,similar
+@@Pair:Bicarbonate  STATE:LOW@Contain@Bicarbonate  TREND:SAME,0,similar
+@@Pair:Bicarbonate  STATE:LOW@Contain@Bicarbonate  TREND:SAME,1,similar
+@@Pair:Bicarbonate  STATE:LOW@Contain@Bicarbonate  TREND:SAME,2,similar
+@@Pair:Bicarbonate  STATE:LOW@Contain@Bicarbonate  TREND:SAME,3,similar
+@@Pair:Bicarbonate  STATE:LOW@Contain@Bicarbonate  TREND:SAME,4,similar
+@@Pair:Bicarbonate  STATE:LOW@Contain@Bicarbonate  TREND:SAME,5,similar
+@@Pair:Bicarbonate  STATE:LOW@Contain@Bicarbonate  TREND:SAME,6,similar
+@@Pair:Bicarbonate  STATE:LOW@Contain@Bicarbonate  TREND:SAME,7,similar
+@@Pair:Bicarbonate  STATE:LOW@Contain@Bicarbonate  TREND:SAME,8,similar
+@@Pair:Bicarbonate  STATE:LOW@Contain@Bicarbonate  TREND:SAME,9,similar
+@@Pair:Bicarbonate  STATE:LOW@Contain@Blood pH STATE:NORMAL,0,similar
+@@Pair:Bicarbonate  STATE:LOW@Contain@Blood pH STATE:NORMAL,1,similar
+@@Pair:Bicarbonate  STATE:LOW@Contain@Blood pH STATE:NORMAL,2,similar
+@@Pair:Bicarbonate  STATE:LOW@Contain@Blood pH STATE:NORMAL,3,similar
+@@Pair:Bicarbonate  STATE:LOW@Contain@Blood pH STATE:NORMAL,4,similar
+@@Pair:Bicarbonate  STATE:LOW@Contain@Blood pH STATE:NORMAL,5,similar
+@@Pair:Bicarbonate  STATE:LOW@Contain@Blood pH STATE:NORMAL,6,similar
+@@Pair:Bicarbonate  STATE:LOW@Contain@Blood pH STATE:NORMAL,7,similar
+@@Pair:Bicarbonate  STATE:LOW@Contain@Blood pH STATE:NORMAL,8,similar
+@@Pair:Bicarbonate  STATE:LOW@Contain@Blood pH STATE:NORMAL,9,similar
+@@Pair:Bicarbonate  STATE:NORMAL@Contain@Bicarbonate  TREND:SAME,0,similar
+@@Pair:Bicarbonate  STATE:NORMAL@Contain@Bicarbonate  TREND:SAME,1,similar
+@@Pair:Bicarbonate  STATE:NORMAL@Contain@Bicarbonate  TREND:SAME,2,similar
+@@Pair:Bicarbonate  STATE:NORMAL@Contain@Bicarbonate  TREND:SAME,3,similar
+@@Pair:Bicarbonate  STATE:NORMAL@Contain@Bicarbonate  TREND:SAME,4,similar
+@@Pair:Bicarbonate  STATE:NORMAL@Contain@Bicarbonate  TREND:SAME,5,similar
+@@Pair:Bicarbonate  STATE:NORMAL@Contain@Bicarbonate  TREND:SAME,6,similar
+@@Pair:Bicarbonate  STATE:NORMAL@Contain@Bicarbonate  TREND:SAME,7,similar
+@@Pair:Bicarbonate  STATE:NORMAL@Contain@Bicarbonate  TREND:SAME,8,similar
+@@Pair:Bicarbonate  STATE:NORMAL@Contain@Bicarbonate  TREND:SAME,9,similar
+@@Pair:Bicarbonate  STATE:NORMAL@Contain@Blood pH STATE:NORMAL,0,similar
+@@Pair:Bicarbonate  STATE:NORMAL@Contain@Blood pH STATE:NORMAL,1,similar
+@@Pair:Bicarbonate  STATE:NORMAL@Contain@Blood pH STATE:NORMAL,2,similar
+@@Pair:Bicarbonate  STATE:NORMAL@Contain@Blood pH STATE:NORMAL,3,similar
+@@Pair:Bicarbonate  STATE:NORMAL@Contain@Blood pH STATE:NORMAL,4,similar
+@@Pair:Bicarbonate  STATE:NORMAL@Contain@Blood pH STATE:NORMAL,5,similar
+@@Pair:Bicarbonate  STATE:NORMAL@Contain@Blood pH STATE:NORMAL,6,similar
+@@Pair:Bicarbonate  STATE:NORMAL@Contain@Blood pH STATE:NORMAL,7,similar
+@@Pair:Bicarbonate  STATE:NORMAL@Contain@Blood pH STATE:NORMAL,8,similar
+@@Pair:Bicarbonate  STATE:NORMAL@Contain@Blood pH STATE:NORMAL,9,similar
+@@Pair:Bicarbonate  STATE:NORMAL@Contain@Blood pH TREND:SAME,0,similar
+@@Pair:Bicarbonate  STATE:NORMAL@Contain@Blood pH TREND:SAME,1,similar
+@@Pair:Bicarbonate  STATE:NORMAL@Contain@Blood pH TREND:SAME,2,similar
+@@Pair:Bicarbonate  STATE:NORMAL@Contain@Blood pH TREND:SAME,3,similar
+@@Pair:Bicarbonate  STATE:NORMAL@Contain@Blood pH TREND:SAME,4,similar
+@@Pair:Bicarbonate  STATE:NORMAL@Contain@Blood pH TREND:SAME,5,similar
+@@Pair:Bicarbonate  STATE:NORMAL@Contain@Blood pH TREND:SAME,6,similar
+@@Pair:Bicarbonate  STATE:NORMAL@Contain@Blood pH TREND:SAME,7,similar
+@@Pair:Bicarbonate  STATE:NORMAL@Contain@Blood pH TREND:SAME,8,similar
+@@Pair:Bicarbonate  STATE:NORMAL@Contain@Blood pH TREND:SAME,9,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH STATE:NORMAL,0,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH STATE:NORMAL,1,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH STATE:NORMAL,2,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH STATE:NORMAL,3,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH STATE:NORMAL,4,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH STATE:NORMAL,5,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH STATE:NORMAL,6,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH STATE:NORMAL,7,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH STATE:NORMAL,8,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH STATE:NORMAL,9,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH TREND:SAME,0,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH TREND:SAME,1,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH TREND:SAME,2,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH TREND:SAME,3,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH TREND:SAME,4,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH TREND:SAME,5,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH TREND:SAME,6,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH TREND:SAME,7,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH TREND:SAME,8,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH TREND:SAME,9,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Blood pH TREND:SAME,0,not similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Blood pH TREND:SAME,1,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Blood pH TREND:SAME,2,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Blood pH TREND:SAME,3,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Blood pH TREND:SAME,4,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Blood pH TREND:SAME,5,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Blood pH TREND:SAME,6,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Blood pH TREND:SAME,7,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Blood pH TREND:SAME,8,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Blood pH TREND:SAME,9,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Blood pH TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Lactate TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Blood pH TREND:SAME,0,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Blood pH TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Lactate TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Blood pH TREND:SAME,1,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Blood pH TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Lactate TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Blood pH TREND:SAME,2,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Blood pH TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Lactate TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Blood pH TREND:SAME,3,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Blood pH TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Lactate TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Blood pH TREND:SAME,4,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Blood pH TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Lactate TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Blood pH TREND:SAME,5,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Blood pH TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Lactate TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Blood pH TREND:SAME,6,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Blood pH TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Lactate TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Blood pH TREND:SAME,7,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Blood pH TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Lactate TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Blood pH TREND:SAME,8,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Blood pH TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Lactate TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Blood pH TREND:SAME,9,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Blood pH TREND:SAME,0,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Blood pH TREND:SAME,1,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Blood pH TREND:SAME,2,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Blood pH TREND:SAME,3,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Blood pH TREND:SAME,4,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Blood pH TREND:SAME,5,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Blood pH TREND:SAME,6,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Blood pH TREND:SAME,7,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Blood pH TREND:SAME,8,similar
+@@Pair:Bicarbonate  TREND:SAME@Contain@Blood pH TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Blood pH TREND:SAME,9,similar
+@@Pair:Blood Glucose STATE:HIGH@Before_3@Blood Glucose TREND:DEC,0,similar
+@@Pair:Blood Glucose STATE:HIGH@Before_3@Blood Glucose TREND:DEC,1,similar
+@@Pair:Blood Glucose STATE:HIGH@Before_3@Blood Glucose TREND:DEC,2,similar
+@@Pair:Blood Glucose STATE:HIGH@Before_3@Blood Glucose TREND:DEC,3,similar
+@@Pair:Blood Glucose STATE:HIGH@Before_3@Blood Glucose TREND:DEC,4,similar
+@@Pair:Blood Glucose STATE:HIGH@Before_3@Blood Glucose TREND:DEC,5,similar
+@@Pair:Blood Glucose STATE:HIGH@Before_3@Blood Glucose TREND:DEC,6,similar
+@@Pair:Blood Glucose STATE:HIGH@Before_3@Blood Glucose TREND:DEC,7,similar
+@@Pair:Blood Glucose STATE:HIGH@Before_3@Blood Glucose TREND:DEC,8,similar
+@@Pair:Blood Glucose STATE:HIGH@Before_3@Blood Glucose TREND:DEC,9,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Blood Glucose TREND:DEC,0,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Blood Glucose TREND:DEC,1,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Blood Glucose TREND:DEC,2,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Blood Glucose TREND:DEC,3,not similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Blood Glucose TREND:DEC,4,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Blood Glucose TREND:DEC,5,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Blood Glucose TREND:DEC,6,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Blood Glucose TREND:DEC,7,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Blood Glucose TREND:DEC,8,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Blood Glucose TREND:DEC,9,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Blood Glucose TREND:INC,0,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Blood Glucose TREND:INC,1,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Blood Glucose TREND:INC,2,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Blood Glucose TREND:INC,3,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Blood Glucose TREND:INC,4,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Blood Glucose TREND:INC,5,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Blood Glucose TREND:INC,6,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Blood Glucose TREND:INC,7,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Blood Glucose TREND:INC,8,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Blood Glucose TREND:INC,9,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Blood Glucose TREND:SAME,0,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Blood Glucose TREND:SAME,1,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Blood Glucose TREND:SAME,2,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Blood Glucose TREND:SAME,3,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Blood Glucose TREND:SAME,4,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Blood Glucose TREND:SAME,5,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Blood Glucose TREND:SAME,6,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Blood Glucose TREND:SAME,7,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Blood Glucose TREND:SAME,8,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Blood Glucose TREND:SAME,9,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Blood pH STATE:NORMAL,0,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Blood pH STATE:NORMAL,1,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Blood pH STATE:NORMAL,2,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Blood pH STATE:NORMAL,3,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Blood pH STATE:NORMAL,4,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Blood pH STATE:NORMAL,5,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Blood pH STATE:NORMAL,6,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Blood pH STATE:NORMAL,7,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Blood pH STATE:NORMAL,8,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Blood pH STATE:NORMAL,9,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Heart Rate STATE:HIGH,0,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Heart Rate STATE:HIGH,1,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Heart Rate STATE:HIGH,2,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Heart Rate STATE:HIGH,3,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Heart Rate STATE:HIGH,4,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Heart Rate STATE:HIGH,5,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Heart Rate STATE:HIGH,6,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Heart Rate STATE:HIGH,7,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Heart Rate STATE:HIGH,8,not similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Heart Rate STATE:HIGH,9,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Heart Rate STATE:NORMAL,0,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Heart Rate STATE:NORMAL,1,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Heart Rate STATE:NORMAL,2,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Heart Rate STATE:NORMAL,3,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Heart Rate STATE:NORMAL,4,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Heart Rate STATE:NORMAL,5,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Heart Rate STATE:NORMAL,6,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Heart Rate STATE:NORMAL,7,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Heart Rate STATE:NORMAL,8,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Heart Rate STATE:NORMAL,9,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Heart Rate TREND:DEC,0,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Heart Rate TREND:DEC,1,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Heart Rate TREND:DEC,2,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Heart Rate TREND:DEC,3,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Heart Rate TREND:DEC,4,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Heart Rate TREND:DEC,5,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Heart Rate TREND:DEC,6,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Heart Rate TREND:DEC,7,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Heart Rate TREND:DEC,8,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Heart Rate TREND:DEC,9,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Heart Rate TREND:INC,0,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Heart Rate TREND:INC,1,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Heart Rate TREND:INC,2,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Heart Rate TREND:INC,3,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Heart Rate TREND:INC,4,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Heart Rate TREND:INC,5,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Heart Rate TREND:INC,6,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Heart Rate TREND:INC,7,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Heart Rate TREND:INC,8,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Heart Rate TREND:INC,9,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Lactate STATE:NORMAL,0,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Lactate STATE:NORMAL,1,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Lactate STATE:NORMAL,2,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Lactate STATE:NORMAL,3,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Lactate STATE:NORMAL,4,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Lactate STATE:NORMAL,5,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Lactate STATE:NORMAL,6,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Lactate STATE:NORMAL,7,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Lactate STATE:NORMAL,8,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Lactate STATE:NORMAL,9,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Temperature STATE:NORMAL,0,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Temperature STATE:NORMAL,1,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Temperature STATE:NORMAL,2,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Temperature STATE:NORMAL,3,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Temperature STATE:NORMAL,4,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Temperature STATE:NORMAL,5,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Temperature STATE:NORMAL,6,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Temperature STATE:NORMAL,7,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Temperature STATE:NORMAL,8,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Temperature STATE:NORMAL,9,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Temperature TREND:DEC,0,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Temperature TREND:DEC,1,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Temperature TREND:DEC,2,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Temperature TREND:DEC,3,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Temperature TREND:DEC,4,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Temperature TREND:DEC,5,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Temperature TREND:DEC,6,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Temperature TREND:DEC,7,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Temperature TREND:DEC,8,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Temperature TREND:DEC,9,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Temperature TREND:INC,0,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Temperature TREND:INC,1,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Temperature TREND:INC,2,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Temperature TREND:INC,3,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Temperature TREND:INC,4,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Temperature TREND:INC,5,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Temperature TREND:INC,6,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Temperature TREND:INC,7,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Temperature TREND:INC,8,similar
+@@Pair:Blood Glucose STATE:HIGH@Contain@Temperature TREND:INC,9,similar
+@@Pair:Blood Glucose STATE:HIGH@Overlaps@Any Insulin STATE:TRUE,0,similar
+@@Pair:Blood Glucose STATE:HIGH@Overlaps@Any Insulin STATE:TRUE,1,similar
+@@Pair:Blood Glucose STATE:HIGH@Overlaps@Any Insulin STATE:TRUE,2,similar
+@@Pair:Blood Glucose STATE:HIGH@Overlaps@Any Insulin STATE:TRUE,3,similar
+@@Pair:Blood Glucose STATE:HIGH@Overlaps@Any Insulin STATE:TRUE,4,not similar
+@@Pair:Blood Glucose STATE:HIGH@Overlaps@Any Insulin STATE:TRUE,5,similar
+@@Pair:Blood Glucose STATE:HIGH@Overlaps@Any Insulin STATE:TRUE,6,similar
+@@Pair:Blood Glucose STATE:HIGH@Overlaps@Any Insulin STATE:TRUE,7,similar
+@@Pair:Blood Glucose STATE:HIGH@Overlaps@Any Insulin STATE:TRUE,8,similar
+@@Pair:Blood Glucose STATE:HIGH@Overlaps@Any Insulin STATE:TRUE,9,similar
+@@Pair:Blood Glucose TREND:DEC@Before_3@Blood Glucose TREND:INC,0,similar
+@@Pair:Blood Glucose TREND:DEC@Before_3@Blood Glucose TREND:INC,1,similar
+@@Pair:Blood Glucose TREND:DEC@Before_3@Blood Glucose TREND:INC,2,similar
+@@Pair:Blood Glucose TREND:DEC@Before_3@Blood Glucose TREND:INC,3,similar
+@@Pair:Blood Glucose TREND:DEC@Before_3@Blood Glucose TREND:INC,4,similar
+@@Pair:Blood Glucose TREND:DEC@Before_3@Blood Glucose TREND:INC,5,similar
+@@Pair:Blood Glucose TREND:DEC@Before_3@Blood Glucose TREND:INC,6,similar
+@@Pair:Blood Glucose TREND:DEC@Before_3@Blood Glucose TREND:INC,7,similar
+@@Pair:Blood Glucose TREND:DEC@Before_3@Blood Glucose TREND:INC,8,similar
+@@Pair:Blood Glucose TREND:DEC@Before_3@Blood Glucose TREND:INC,9,similar
+@@Pair:Blood Glucose TREND:DEC@Before_3@Blood Glucose TREND:SAME,0,similar
+@@Pair:Blood Glucose TREND:DEC@Before_3@Blood Glucose TREND:SAME,1,similar
+@@Pair:Blood Glucose TREND:DEC@Before_3@Blood Glucose TREND:SAME,2,similar
+@@Pair:Blood Glucose TREND:DEC@Before_3@Blood Glucose TREND:SAME,3,similar
+@@Pair:Blood Glucose TREND:DEC@Before_3@Blood Glucose TREND:SAME,4,similar
+@@Pair:Blood Glucose TREND:DEC@Before_3@Blood Glucose TREND:SAME,5,similar
+@@Pair:Blood Glucose TREND:DEC@Before_3@Blood Glucose TREND:SAME,6,similar
+@@Pair:Blood Glucose TREND:DEC@Before_3@Blood Glucose TREND:SAME,7,similar
+@@Pair:Blood Glucose TREND:DEC@Before_3@Blood Glucose TREND:SAME,8,similar
+@@Pair:Blood Glucose TREND:DEC@Before_3@Blood Glucose TREND:SAME,9,similar
+@@Pair:Blood Glucose TREND:DEC@Contain@Blood Glucose STATE:ELEVATED,0,similar
+@@Pair:Blood Glucose TREND:DEC@Contain@Blood Glucose STATE:ELEVATED,1,similar
+@@Pair:Blood Glucose TREND:DEC@Contain@Blood Glucose STATE:ELEVATED,2,similar
+@@Pair:Blood Glucose TREND:DEC@Contain@Blood Glucose STATE:ELEVATED,3,similar
+@@Pair:Blood Glucose TREND:DEC@Contain@Blood Glucose STATE:ELEVATED,4,similar
+@@Pair:Blood Glucose TREND:DEC@Contain@Blood Glucose STATE:ELEVATED,5,similar
+@@Pair:Blood Glucose TREND:DEC@Contain@Blood Glucose STATE:ELEVATED,6,similar
+@@Pair:Blood Glucose TREND:DEC@Contain@Blood Glucose STATE:ELEVATED,7,similar
+@@Pair:Blood Glucose TREND:DEC@Contain@Blood Glucose STATE:ELEVATED,8,similar
+@@Pair:Blood Glucose TREND:DEC@Contain@Blood Glucose STATE:ELEVATED,9,similar
+@@Pair:Blood Glucose TREND:DEC@Contain@Blood Glucose STATE:NORMAL,0,similar
+@@Pair:Blood Glucose TREND:DEC@Contain@Blood Glucose STATE:NORMAL,1,similar
+@@Pair:Blood Glucose TREND:DEC@Contain@Blood Glucose STATE:NORMAL,2,similar
+@@Pair:Blood Glucose TREND:DEC@Contain@Blood Glucose STATE:NORMAL,3,similar
+@@Pair:Blood Glucose TREND:DEC@Contain@Blood Glucose STATE:NORMAL,4,similar
+@@Pair:Blood Glucose TREND:DEC@Contain@Blood Glucose STATE:NORMAL,5,similar
+@@Pair:Blood Glucose TREND:DEC@Contain@Blood Glucose STATE:NORMAL,6,similar
+@@Pair:Blood Glucose TREND:DEC@Contain@Blood Glucose STATE:NORMAL,7,similar
+@@Pair:Blood Glucose TREND:DEC@Contain@Blood Glucose STATE:NORMAL,8,similar
+@@Pair:Blood Glucose TREND:DEC@Contain@Blood Glucose STATE:NORMAL,9,similar
+@@Pair:Blood Glucose TREND:DEC@Contain@Heart Rate STATE:NORMAL,0,similar
+@@Pair:Blood Glucose TREND:DEC@Contain@Heart Rate STATE:NORMAL,1,similar
+@@Pair:Blood Glucose TREND:DEC@Contain@Heart Rate STATE:NORMAL,2,similar
+@@Pair:Blood Glucose TREND:DEC@Contain@Heart Rate STATE:NORMAL,3,similar
+@@Pair:Blood Glucose TREND:DEC@Contain@Heart Rate STATE:NORMAL,4,similar
+@@Pair:Blood Glucose TREND:DEC@Contain@Heart Rate STATE:NORMAL,5,similar
+@@Pair:Blood Glucose TREND:DEC@Contain@Heart Rate STATE:NORMAL,6,similar
+@@Pair:Blood Glucose TREND:DEC@Contain@Heart Rate STATE:NORMAL,7,similar
+@@Pair:Blood Glucose TREND:DEC@Contain@Heart Rate STATE:NORMAL,8,similar
+@@Pair:Blood Glucose TREND:DEC@Contain@Heart Rate STATE:NORMAL,9,similar
+@@Pair:Blood Glucose TREND:DEC@Overlaps@Heart Rate TREND:INC,0,similar
+@@Pair:Blood Glucose TREND:DEC@Overlaps@Heart Rate TREND:INC,1,similar
+@@Pair:Blood Glucose TREND:DEC@Overlaps@Heart Rate TREND:INC,2,similar
+@@Pair:Blood Glucose TREND:DEC@Overlaps@Heart Rate TREND:INC,3,similar
+@@Pair:Blood Glucose TREND:DEC@Overlaps@Heart Rate TREND:INC,4,similar
+@@Pair:Blood Glucose TREND:DEC@Overlaps@Heart Rate TREND:INC,5,similar
+@@Pair:Blood Glucose TREND:DEC@Overlaps@Heart Rate TREND:INC,6,similar
+@@Pair:Blood Glucose TREND:DEC@Overlaps@Heart Rate TREND:INC,7,similar
+@@Pair:Blood Glucose TREND:DEC@Overlaps@Heart Rate TREND:INC,8,similar
+@@Pair:Blood Glucose TREND:DEC@Overlaps@Heart Rate TREND:INC,9,similar
+@@Pair:Blood Glucose TREND:DEC@Overlaps@Temperature TREND:DEC,0,similar
+@@Pair:Blood Glucose TREND:DEC@Overlaps@Temperature TREND:DEC,1,similar
+@@Pair:Blood Glucose TREND:DEC@Overlaps@Temperature TREND:DEC,2,similar
+@@Pair:Blood Glucose TREND:DEC@Overlaps@Temperature TREND:DEC,3,similar
+@@Pair:Blood Glucose TREND:DEC@Overlaps@Temperature TREND:DEC,4,similar
+@@Pair:Blood Glucose TREND:DEC@Overlaps@Temperature TREND:DEC,5,similar
+@@Pair:Blood Glucose TREND:DEC@Overlaps@Temperature TREND:DEC,6,similar
+@@Pair:Blood Glucose TREND:DEC@Overlaps@Temperature TREND:DEC,7,similar
+@@Pair:Blood Glucose TREND:DEC@Overlaps@Temperature TREND:DEC,8,similar
+@@Pair:Blood Glucose TREND:DEC@Overlaps@Temperature TREND:DEC,9,similar
+@@Pair:Blood Glucose TREND:INC@Before_3@Blood Glucose TREND:DEC,0,similar
+@@Pair:Blood Glucose TREND:INC@Before_3@Blood Glucose TREND:DEC,1,similar
+@@Pair:Blood Glucose TREND:INC@Before_3@Blood Glucose TREND:DEC,2,similar
+@@Pair:Blood Glucose TREND:INC@Before_3@Blood Glucose TREND:DEC,3,similar
+@@Pair:Blood Glucose TREND:INC@Before_3@Blood Glucose TREND:DEC,4,similar
+@@Pair:Blood Glucose TREND:INC@Before_3@Blood Glucose TREND:DEC,5,similar
+@@Pair:Blood Glucose TREND:INC@Before_3@Blood Glucose TREND:DEC,6,similar
+@@Pair:Blood Glucose TREND:INC@Before_3@Blood Glucose TREND:DEC,7,similar
+@@Pair:Blood Glucose TREND:INC@Before_3@Blood Glucose TREND:DEC,8,similar
+@@Pair:Blood Glucose TREND:INC@Before_3@Blood Glucose TREND:DEC,9,similar
+@@Pair:Blood Glucose TREND:INC@Before_3@Blood Glucose TREND:DEC@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:DEC@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:INC,0,similar
+@@Pair:Blood Glucose TREND:INC@Before_3@Blood Glucose TREND:DEC@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:DEC@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:INC,1,similar
+@@Pair:Blood Glucose TREND:INC@Before_3@Blood Glucose TREND:DEC@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:DEC@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:INC,2,similar
+@@Pair:Blood Glucose TREND:INC@Before_3@Blood Glucose TREND:DEC@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:DEC@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:INC,3,similar
+@@Pair:Blood Glucose TREND:INC@Before_3@Blood Glucose TREND:DEC@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:DEC@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:INC,4,similar
+@@Pair:Blood Glucose TREND:INC@Before_3@Blood Glucose TREND:DEC@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:DEC@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:INC,5,similar
+@@Pair:Blood Glucose TREND:INC@Before_3@Blood Glucose TREND:DEC@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:DEC@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:INC,6,similar
+@@Pair:Blood Glucose TREND:INC@Before_3@Blood Glucose TREND:DEC@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:DEC@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:INC,7,similar
+@@Pair:Blood Glucose TREND:INC@Before_3@Blood Glucose TREND:DEC@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:DEC@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:INC,8,similar
+@@Pair:Blood Glucose TREND:INC@Before_3@Blood Glucose TREND:DEC@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:DEC@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:INC,9,similar
+@@Pair:Blood Glucose TREND:INC@Contain@Blood Glucose STATE:HIGH,0,similar
+@@Pair:Blood Glucose TREND:INC@Contain@Blood Glucose STATE:HIGH,1,similar
+@@Pair:Blood Glucose TREND:INC@Contain@Blood Glucose STATE:HIGH,2,similar
+@@Pair:Blood Glucose TREND:INC@Contain@Blood Glucose STATE:HIGH,3,similar
+@@Pair:Blood Glucose TREND:INC@Contain@Blood Glucose STATE:HIGH,4,similar
+@@Pair:Blood Glucose TREND:INC@Contain@Blood Glucose STATE:HIGH,5,similar
+@@Pair:Blood Glucose TREND:INC@Contain@Blood Glucose STATE:HIGH,6,similar
+@@Pair:Blood Glucose TREND:INC@Contain@Blood Glucose STATE:HIGH,7,similar
+@@Pair:Blood Glucose TREND:INC@Contain@Blood Glucose STATE:HIGH,8,similar
+@@Pair:Blood Glucose TREND:INC@Contain@Blood Glucose STATE:HIGH,9,similar
+@@Pair:Blood Glucose TREND:INC@Overlaps@Blood Glucose STATE:HIGH,0,similar
+@@Pair:Blood Glucose TREND:INC@Overlaps@Blood Glucose STATE:HIGH,1,similar
+@@Pair:Blood Glucose TREND:INC@Overlaps@Blood Glucose STATE:HIGH,2,similar
+@@Pair:Blood Glucose TREND:INC@Overlaps@Blood Glucose STATE:HIGH,3,similar
+@@Pair:Blood Glucose TREND:INC@Overlaps@Blood Glucose STATE:HIGH,4,similar
+@@Pair:Blood Glucose TREND:INC@Overlaps@Blood Glucose STATE:HIGH,5,similar
+@@Pair:Blood Glucose TREND:INC@Overlaps@Blood Glucose STATE:HIGH,6,similar
+@@Pair:Blood Glucose TREND:INC@Overlaps@Blood Glucose STATE:HIGH,7,similar
+@@Pair:Blood Glucose TREND:INC@Overlaps@Blood Glucose STATE:HIGH,8,similar
+@@Pair:Blood Glucose TREND:INC@Overlaps@Blood Glucose STATE:HIGH,9,similar
+@@Pair:Blood Glucose TREND:SAME@Before_3@Blood Glucose TREND:DEC,0,similar
+@@Pair:Blood Glucose TREND:SAME@Before_3@Blood Glucose TREND:DEC,1,similar
+@@Pair:Blood Glucose TREND:SAME@Before_3@Blood Glucose TREND:DEC,2,similar
+@@Pair:Blood Glucose TREND:SAME@Before_3@Blood Glucose TREND:DEC,3,similar
+@@Pair:Blood Glucose TREND:SAME@Before_3@Blood Glucose TREND:DEC,4,similar
+@@Pair:Blood Glucose TREND:SAME@Before_3@Blood Glucose TREND:DEC,5,similar
+@@Pair:Blood Glucose TREND:SAME@Before_3@Blood Glucose TREND:DEC,6,similar
+@@Pair:Blood Glucose TREND:SAME@Before_3@Blood Glucose TREND:DEC,7,similar
+@@Pair:Blood Glucose TREND:SAME@Before_3@Blood Glucose TREND:DEC,8,similar
+@@Pair:Blood Glucose TREND:SAME@Before_3@Blood Glucose TREND:DEC,9,similar
+@@Pair:Blood Glucose TREND:SAME@Before_3@Blood Glucose TREND:INC,0,similar
+@@Pair:Blood Glucose TREND:SAME@Before_3@Blood Glucose TREND:INC,1,similar
+@@Pair:Blood Glucose TREND:SAME@Before_3@Blood Glucose TREND:INC,2,similar
+@@Pair:Blood Glucose TREND:SAME@Before_3@Blood Glucose TREND:INC,3,similar
+@@Pair:Blood Glucose TREND:SAME@Before_3@Blood Glucose TREND:INC,4,similar
+@@Pair:Blood Glucose TREND:SAME@Before_3@Blood Glucose TREND:INC,5,similar
+@@Pair:Blood Glucose TREND:SAME@Before_3@Blood Glucose TREND:INC,6,similar
+@@Pair:Blood Glucose TREND:SAME@Before_3@Blood Glucose TREND:INC,7,similar
+@@Pair:Blood Glucose TREND:SAME@Before_3@Blood Glucose TREND:INC,8,similar
+@@Pair:Blood Glucose TREND:SAME@Before_3@Blood Glucose TREND:INC,9,similar
+@@Pair:Blood pH STATE:NORMAL@Contain@Blood pH TREND:SAME,0,similar
+@@Pair:Blood pH STATE:NORMAL@Contain@Blood pH TREND:SAME,1,similar
+@@Pair:Blood pH STATE:NORMAL@Contain@Blood pH TREND:SAME,2,similar
+@@Pair:Blood pH STATE:NORMAL@Contain@Blood pH TREND:SAME,3,similar
+@@Pair:Blood pH STATE:NORMAL@Contain@Blood pH TREND:SAME,4,similar
+@@Pair:Blood pH STATE:NORMAL@Contain@Blood pH TREND:SAME,5,similar
+@@Pair:Blood pH STATE:NORMAL@Contain@Blood pH TREND:SAME,6,similar
+@@Pair:Blood pH STATE:NORMAL@Contain@Blood pH TREND:SAME,7,similar
+@@Pair:Blood pH STATE:NORMAL@Contain@Blood pH TREND:SAME,8,similar
+@@Pair:Blood pH STATE:NORMAL@Contain@Blood pH TREND:SAME,9,similar
+@@Pair:Creatinine STATE:HIGH@Contain@Blood Glucose TREND:DEC,0,similar
+@@Pair:Creatinine STATE:HIGH@Contain@Blood Glucose TREND:DEC,1,similar
+@@Pair:Creatinine STATE:HIGH@Contain@Blood Glucose TREND:DEC,2,similar
+@@Pair:Creatinine STATE:HIGH@Contain@Blood Glucose TREND:DEC,3,similar
+@@Pair:Creatinine STATE:HIGH@Contain@Blood Glucose TREND:DEC,4,similar
+@@Pair:Creatinine STATE:HIGH@Contain@Blood Glucose TREND:DEC,5,similar
+@@Pair:Creatinine STATE:HIGH@Contain@Blood Glucose TREND:DEC,6,similar
+@@Pair:Creatinine STATE:HIGH@Contain@Blood Glucose TREND:DEC,7,similar
+@@Pair:Creatinine STATE:HIGH@Contain@Blood Glucose TREND:DEC,8,similar
+@@Pair:Creatinine STATE:HIGH@Contain@Blood Glucose TREND:DEC,9,similar
+@@Pair:Creatinine STATE:HIGH@Contain@Blood Glucose TREND:INC,0,similar
+@@Pair:Creatinine STATE:HIGH@Contain@Blood Glucose TREND:INC,1,similar
+@@Pair:Creatinine STATE:HIGH@Contain@Blood Glucose TREND:INC,2,similar
+@@Pair:Creatinine STATE:HIGH@Contain@Blood Glucose TREND:INC,3,similar
+@@Pair:Creatinine STATE:HIGH@Contain@Blood Glucose TREND:INC,4,similar
+@@Pair:Creatinine STATE:HIGH@Contain@Blood Glucose TREND:INC,5,similar
+@@Pair:Creatinine STATE:HIGH@Contain@Blood Glucose TREND:INC,6,similar
+@@Pair:Creatinine STATE:HIGH@Contain@Blood Glucose TREND:INC,7,similar
+@@Pair:Creatinine STATE:HIGH@Contain@Blood Glucose TREND:INC,8,similar
+@@Pair:Creatinine STATE:HIGH@Contain@Blood Glucose TREND:INC,9,similar
+@@Pair:Creatinine STATE:NORMAL@Contain@Creatinine TREND:SAME,0,similar
+@@Pair:Creatinine STATE:NORMAL@Contain@Creatinine TREND:SAME,1,similar
+@@Pair:Creatinine STATE:NORMAL@Contain@Creatinine TREND:SAME,2,similar
+@@Pair:Creatinine STATE:NORMAL@Contain@Creatinine TREND:SAME,3,similar
+@@Pair:Creatinine STATE:NORMAL@Contain@Creatinine TREND:SAME,4,similar
+@@Pair:Creatinine STATE:NORMAL@Contain@Creatinine TREND:SAME,5,similar
+@@Pair:Creatinine STATE:NORMAL@Contain@Creatinine TREND:SAME,6,similar
+@@Pair:Creatinine STATE:NORMAL@Contain@Creatinine TREND:SAME,7,similar
+@@Pair:Creatinine STATE:NORMAL@Contain@Creatinine TREND:SAME,8,similar
+@@Pair:Creatinine STATE:NORMAL@Contain@Creatinine TREND:SAME,9,similar
+@@Pair:Heart Rate STATE:HIGH@Before_3@Heart Rate TREND:DEC,0,similar
+@@Pair:Heart Rate STATE:HIGH@Before_3@Heart Rate TREND:DEC,1,similar
+@@Pair:Heart Rate STATE:HIGH@Before_3@Heart Rate TREND:DEC,2,similar
+@@Pair:Heart Rate STATE:HIGH@Before_3@Heart Rate TREND:DEC,3,similar
+@@Pair:Heart Rate STATE:HIGH@Before_3@Heart Rate TREND:DEC,4,similar
+@@Pair:Heart Rate STATE:HIGH@Before_3@Heart Rate TREND:DEC,5,similar
+@@Pair:Heart Rate STATE:HIGH@Before_3@Heart Rate TREND:DEC,6,similar
+@@Pair:Heart Rate STATE:HIGH@Before_3@Heart Rate TREND:DEC,7,similar
+@@Pair:Heart Rate STATE:HIGH@Before_3@Heart Rate TREND:DEC,8,similar
+@@Pair:Heart Rate STATE:HIGH@Before_3@Heart Rate TREND:DEC,9,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Blood Glucose TREND:DEC,0,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Blood Glucose TREND:DEC,1,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Blood Glucose TREND:DEC,2,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Blood Glucose TREND:DEC,3,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Blood Glucose TREND:DEC,4,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Blood Glucose TREND:DEC,5,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Blood Glucose TREND:DEC,6,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Blood Glucose TREND:DEC,7,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Blood Glucose TREND:DEC,8,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Blood Glucose TREND:DEC,9,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Blood Glucose TREND:INC,0,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Blood Glucose TREND:INC,1,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Blood Glucose TREND:INC,2,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Blood Glucose TREND:INC,3,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Blood Glucose TREND:INC,4,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Blood Glucose TREND:INC,5,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Blood Glucose TREND:INC,6,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Blood Glucose TREND:INC,7,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Blood Glucose TREND:INC,8,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Blood Glucose TREND:INC,9,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Heart Rate TREND:DEC,0,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Heart Rate TREND:DEC,1,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Heart Rate TREND:DEC,2,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Heart Rate TREND:DEC,3,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Heart Rate TREND:DEC,4,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Heart Rate TREND:DEC,5,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Heart Rate TREND:DEC,6,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Heart Rate TREND:DEC,7,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Heart Rate TREND:DEC,8,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Heart Rate TREND:DEC,9,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Heart Rate TREND:INC,0,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Heart Rate TREND:INC,1,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Heart Rate TREND:INC,2,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Heart Rate TREND:INC,3,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Heart Rate TREND:INC,4,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Heart Rate TREND:INC,5,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Heart Rate TREND:INC,6,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Heart Rate TREND:INC,7,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Heart Rate TREND:INC,8,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Heart Rate TREND:INC,9,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Heart Rate TREND:SAME,0,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Heart Rate TREND:SAME,1,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Heart Rate TREND:SAME,2,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Heart Rate TREND:SAME,3,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Heart Rate TREND:SAME,4,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Heart Rate TREND:SAME,5,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Heart Rate TREND:SAME,6,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Heart Rate TREND:SAME,7,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Heart Rate TREND:SAME,8,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Heart Rate TREND:SAME,9,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Temperature STATE:HIGH,0,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Temperature STATE:HIGH,1,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Temperature STATE:HIGH,2,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Temperature STATE:HIGH,3,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Temperature STATE:HIGH,4,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Temperature STATE:HIGH,5,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Temperature STATE:HIGH,6,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Temperature STATE:HIGH,7,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Temperature STATE:HIGH,8,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Temperature STATE:HIGH,9,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Temperature STATE:NORMAL,0,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Temperature STATE:NORMAL,1,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Temperature STATE:NORMAL,2,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Temperature STATE:NORMAL,3,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Temperature STATE:NORMAL,4,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Temperature STATE:NORMAL,5,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Temperature STATE:NORMAL,6,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Temperature STATE:NORMAL,7,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Temperature STATE:NORMAL,8,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Temperature STATE:NORMAL,9,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Temperature TREND:DEC,0,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Temperature TREND:DEC,1,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Temperature TREND:DEC,2,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Temperature TREND:DEC,3,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Temperature TREND:DEC,4,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Temperature TREND:DEC,5,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Temperature TREND:DEC,6,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Temperature TREND:DEC,7,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Temperature TREND:DEC,8,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Temperature TREND:DEC,9,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Temperature TREND:INC,0,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Temperature TREND:INC,1,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Temperature TREND:INC,2,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Temperature TREND:INC,3,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Temperature TREND:INC,4,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Temperature TREND:INC,5,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Temperature TREND:INC,6,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Temperature TREND:INC,7,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Temperature TREND:INC,8,similar
+@@Pair:Heart Rate STATE:HIGH@Contain@Temperature TREND:INC,9,similar
+@@Pair:Heart Rate STATE:HIGH@Overlaps@Blood Glucose STATE:HIGH,0,similar
+@@Pair:Heart Rate STATE:HIGH@Overlaps@Blood Glucose STATE:HIGH,1,similar
+@@Pair:Heart Rate STATE:HIGH@Overlaps@Blood Glucose STATE:HIGH,2,similar
+@@Pair:Heart Rate STATE:HIGH@Overlaps@Blood Glucose STATE:HIGH,3,similar
+@@Pair:Heart Rate STATE:HIGH@Overlaps@Blood Glucose STATE:HIGH,4,similar
+@@Pair:Heart Rate STATE:HIGH@Overlaps@Blood Glucose STATE:HIGH,5,similar
+@@Pair:Heart Rate STATE:HIGH@Overlaps@Blood Glucose STATE:HIGH,6,similar
+@@Pair:Heart Rate STATE:HIGH@Overlaps@Blood Glucose STATE:HIGH,7,similar
+@@Pair:Heart Rate STATE:HIGH@Overlaps@Blood Glucose STATE:HIGH,8,similar
+@@Pair:Heart Rate STATE:HIGH@Overlaps@Blood Glucose STATE:HIGH,9,similar
+@@Pair:Heart Rate STATE:NORMAL@Before_3@Heart Rate TREND:INC,0,similar
+@@Pair:Heart Rate STATE:NORMAL@Before_3@Heart Rate TREND:INC,1,similar
+@@Pair:Heart Rate STATE:NORMAL@Before_3@Heart Rate TREND:INC,2,similar
+@@Pair:Heart Rate STATE:NORMAL@Before_3@Heart Rate TREND:INC,3,similar
+@@Pair:Heart Rate STATE:NORMAL@Before_3@Heart Rate TREND:INC,4,similar
+@@Pair:Heart Rate STATE:NORMAL@Before_3@Heart Rate TREND:INC,5,similar
+@@Pair:Heart Rate STATE:NORMAL@Before_3@Heart Rate TREND:INC,6,similar
+@@Pair:Heart Rate STATE:NORMAL@Before_3@Heart Rate TREND:INC,7,similar
+@@Pair:Heart Rate STATE:NORMAL@Before_3@Heart Rate TREND:INC,8,similar
+@@Pair:Heart Rate STATE:NORMAL@Before_3@Heart Rate TREND:INC,9,similar
+@@Pair:Heart Rate STATE:NORMAL@Before_3@Heart Rate TREND:INC@@Pair:Heart Rate TREND:DEC@Before_3@Heart Rate TREND:INC@@Pair:Heart Rate TREND:DEC@Contain@Heart Rate STATE:NORMAL,0,similar
+@@Pair:Heart Rate STATE:NORMAL@Before_3@Heart Rate TREND:INC@@Pair:Heart Rate TREND:DEC@Before_3@Heart Rate TREND:INC@@Pair:Heart Rate TREND:DEC@Contain@Heart Rate STATE:NORMAL,1,similar
+@@Pair:Heart Rate STATE:NORMAL@Before_3@Heart Rate TREND:INC@@Pair:Heart Rate TREND:DEC@Before_3@Heart Rate TREND:INC@@Pair:Heart Rate TREND:DEC@Contain@Heart Rate STATE:NORMAL,2,similar
+@@Pair:Heart Rate STATE:NORMAL@Before_3@Heart Rate TREND:INC@@Pair:Heart Rate TREND:DEC@Before_3@Heart Rate TREND:INC@@Pair:Heart Rate TREND:DEC@Contain@Heart Rate STATE:NORMAL,3,similar
+@@Pair:Heart Rate STATE:NORMAL@Before_3@Heart Rate TREND:INC@@Pair:Heart Rate TREND:DEC@Before_3@Heart Rate TREND:INC@@Pair:Heart Rate TREND:DEC@Contain@Heart Rate STATE:NORMAL,4,similar
+@@Pair:Heart Rate STATE:NORMAL@Before_3@Heart Rate TREND:INC@@Pair:Heart Rate TREND:DEC@Before_3@Heart Rate TREND:INC@@Pair:Heart Rate TREND:DEC@Contain@Heart Rate STATE:NORMAL,5,similar
+@@Pair:Heart Rate STATE:NORMAL@Before_3@Heart Rate TREND:INC@@Pair:Heart Rate TREND:DEC@Before_3@Heart Rate TREND:INC@@Pair:Heart Rate TREND:DEC@Contain@Heart Rate STATE:NORMAL,6,similar
+@@Pair:Heart Rate STATE:NORMAL@Before_3@Heart Rate TREND:INC@@Pair:Heart Rate TREND:DEC@Before_3@Heart Rate TREND:INC@@Pair:Heart Rate TREND:DEC@Contain@Heart Rate STATE:NORMAL,7,similar
+@@Pair:Heart Rate STATE:NORMAL@Before_3@Heart Rate TREND:INC@@Pair:Heart Rate TREND:DEC@Before_3@Heart Rate TREND:INC@@Pair:Heart Rate TREND:DEC@Contain@Heart Rate STATE:NORMAL,8,similar
+@@Pair:Heart Rate STATE:NORMAL@Before_3@Heart Rate TREND:INC@@Pair:Heart Rate TREND:DEC@Before_3@Heart Rate TREND:INC@@Pair:Heart Rate TREND:DEC@Contain@Heart Rate STATE:NORMAL,9,similar
+@@Pair:Heart Rate STATE:NORMAL@Contain@Heart Rate TREND:SAME,0,similar
+@@Pair:Heart Rate STATE:NORMAL@Contain@Heart Rate TREND:SAME,1,similar
+@@Pair:Heart Rate STATE:NORMAL@Contain@Heart Rate TREND:SAME,2,similar
+@@Pair:Heart Rate STATE:NORMAL@Contain@Heart Rate TREND:SAME,3,similar
+@@Pair:Heart Rate STATE:NORMAL@Contain@Heart Rate TREND:SAME,4,similar
+@@Pair:Heart Rate STATE:NORMAL@Contain@Heart Rate TREND:SAME,5,similar
+@@Pair:Heart Rate STATE:NORMAL@Contain@Heart Rate TREND:SAME,6,similar
+@@Pair:Heart Rate STATE:NORMAL@Contain@Heart Rate TREND:SAME,7,similar
+@@Pair:Heart Rate STATE:NORMAL@Contain@Heart Rate TREND:SAME,8,similar
+@@Pair:Heart Rate STATE:NORMAL@Contain@Heart Rate TREND:SAME,9,similar
+@@Pair:Heart Rate STATE:NORMAL@Contain@Temperature STATE:NORMAL,0,similar
+@@Pair:Heart Rate STATE:NORMAL@Contain@Temperature STATE:NORMAL,1,similar
+@@Pair:Heart Rate STATE:NORMAL@Contain@Temperature STATE:NORMAL,2,similar
+@@Pair:Heart Rate STATE:NORMAL@Contain@Temperature STATE:NORMAL,3,similar
+@@Pair:Heart Rate STATE:NORMAL@Contain@Temperature STATE:NORMAL,4,similar
+@@Pair:Heart Rate STATE:NORMAL@Contain@Temperature STATE:NORMAL,5,similar
+@@Pair:Heart Rate STATE:NORMAL@Contain@Temperature STATE:NORMAL,6,similar
+@@Pair:Heart Rate STATE:NORMAL@Contain@Temperature STATE:NORMAL,7,similar
+@@Pair:Heart Rate STATE:NORMAL@Contain@Temperature STATE:NORMAL,8,similar
+@@Pair:Heart Rate STATE:NORMAL@Contain@Temperature STATE:NORMAL,9,similar
+@@Pair:Heart Rate STATE:NORMAL@Contain@Temperature TREND:INC,0,similar
+@@Pair:Heart Rate STATE:NORMAL@Contain@Temperature TREND:INC,1,similar
+@@Pair:Heart Rate STATE:NORMAL@Contain@Temperature TREND:INC,2,similar
+@@Pair:Heart Rate STATE:NORMAL@Contain@Temperature TREND:INC,3,similar
+@@Pair:Heart Rate STATE:NORMAL@Contain@Temperature TREND:INC,4,similar
+@@Pair:Heart Rate STATE:NORMAL@Contain@Temperature TREND:INC,5,similar
+@@Pair:Heart Rate STATE:NORMAL@Contain@Temperature TREND:INC,6,similar
+@@Pair:Heart Rate STATE:NORMAL@Contain@Temperature TREND:INC,7,similar
+@@Pair:Heart Rate STATE:NORMAL@Contain@Temperature TREND:INC,8,similar
+@@Pair:Heart Rate STATE:NORMAL@Contain@Temperature TREND:INC,9,similar
+@@Pair:Heart Rate TREND:DEC@Before_3@Heart Rate TREND:INC,0,similar
+@@Pair:Heart Rate TREND:DEC@Before_3@Heart Rate TREND:INC,1,similar
+@@Pair:Heart Rate TREND:DEC@Before_3@Heart Rate TREND:INC,2,similar
+@@Pair:Heart Rate TREND:DEC@Before_3@Heart Rate TREND:INC,3,similar
+@@Pair:Heart Rate TREND:DEC@Before_3@Heart Rate TREND:INC,4,similar
+@@Pair:Heart Rate TREND:DEC@Before_3@Heart Rate TREND:INC,5,similar
+@@Pair:Heart Rate TREND:DEC@Before_3@Heart Rate TREND:INC,6,similar
+@@Pair:Heart Rate TREND:DEC@Before_3@Heart Rate TREND:INC,7,similar
+@@Pair:Heart Rate TREND:DEC@Before_3@Heart Rate TREND:INC,8,similar
+@@Pair:Heart Rate TREND:DEC@Before_3@Heart Rate TREND:INC,9,similar
+@@Pair:Heart Rate TREND:DEC@Before_3@Heart Rate TREND:SAME,0,similar
+@@Pair:Heart Rate TREND:DEC@Before_3@Heart Rate TREND:SAME,1,similar
+@@Pair:Heart Rate TREND:DEC@Before_3@Heart Rate TREND:SAME,2,similar
+@@Pair:Heart Rate TREND:DEC@Before_3@Heart Rate TREND:SAME,3,similar
+@@Pair:Heart Rate TREND:DEC@Before_3@Heart Rate TREND:SAME,4,similar
+@@Pair:Heart Rate TREND:DEC@Before_3@Heart Rate TREND:SAME,5,similar
+@@Pair:Heart Rate TREND:DEC@Before_3@Heart Rate TREND:SAME,6,similar
+@@Pair:Heart Rate TREND:DEC@Before_3@Heart Rate TREND:SAME,7,similar
+@@Pair:Heart Rate TREND:DEC@Before_3@Heart Rate TREND:SAME,8,similar
+@@Pair:Heart Rate TREND:DEC@Before_3@Heart Rate TREND:SAME,9,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Heart Rate STATE:LOW,0,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Heart Rate STATE:LOW,1,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Heart Rate STATE:LOW,2,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Heart Rate STATE:LOW,3,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Heart Rate STATE:LOW,4,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Heart Rate STATE:LOW,5,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Heart Rate STATE:LOW,6,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Heart Rate STATE:LOW,7,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Heart Rate STATE:LOW,8,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Heart Rate STATE:LOW,9,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Heart Rate STATE:NORMAL,0,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Heart Rate STATE:NORMAL,1,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Heart Rate STATE:NORMAL,2,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Heart Rate STATE:NORMAL,3,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Heart Rate STATE:NORMAL,4,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Heart Rate STATE:NORMAL,5,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Heart Rate STATE:NORMAL,6,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Heart Rate STATE:NORMAL,7,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Heart Rate STATE:NORMAL,8,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Heart Rate STATE:NORMAL,9,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Temperature STATE:NORMAL,0,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Temperature STATE:NORMAL,1,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Temperature STATE:NORMAL,2,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Temperature STATE:NORMAL,3,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Temperature STATE:NORMAL,4,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Temperature STATE:NORMAL,5,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Temperature STATE:NORMAL,6,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Temperature STATE:NORMAL,7,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Temperature STATE:NORMAL,8,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Temperature STATE:NORMAL,9,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Temperature TREND:DEC,0,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Temperature TREND:DEC,1,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Temperature TREND:DEC,2,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Temperature TREND:DEC,3,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Temperature TREND:DEC,4,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Temperature TREND:DEC,5,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Temperature TREND:DEC,6,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Temperature TREND:DEC,7,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Temperature TREND:DEC,8,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Temperature TREND:DEC,9,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Temperature TREND:INC,0,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Temperature TREND:INC,1,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Temperature TREND:INC,2,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Temperature TREND:INC,3,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Temperature TREND:INC,4,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Temperature TREND:INC,5,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Temperature TREND:INC,6,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Temperature TREND:INC,7,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Temperature TREND:INC,8,similar
+@@Pair:Heart Rate TREND:DEC@Contain@Temperature TREND:INC,9,similar
+@@Pair:Heart Rate TREND:DEC@Overlaps@Blood Glucose STATE:HIGH,0,similar
+@@Pair:Heart Rate TREND:DEC@Overlaps@Blood Glucose STATE:HIGH,1,similar
+@@Pair:Heart Rate TREND:DEC@Overlaps@Blood Glucose STATE:HIGH,2,similar
+@@Pair:Heart Rate TREND:DEC@Overlaps@Blood Glucose STATE:HIGH,3,similar
+@@Pair:Heart Rate TREND:DEC@Overlaps@Blood Glucose STATE:HIGH,4,similar
+@@Pair:Heart Rate TREND:DEC@Overlaps@Blood Glucose STATE:HIGH,5,similar
+@@Pair:Heart Rate TREND:DEC@Overlaps@Blood Glucose STATE:HIGH,6,similar
+@@Pair:Heart Rate TREND:DEC@Overlaps@Blood Glucose STATE:HIGH,7,similar
+@@Pair:Heart Rate TREND:DEC@Overlaps@Blood Glucose STATE:HIGH,8,similar
+@@Pair:Heart Rate TREND:DEC@Overlaps@Blood Glucose STATE:HIGH,9,similar
+@@Pair:Heart Rate TREND:DEC@Overlaps@Blood Glucose TREND:DEC,0,similar
+@@Pair:Heart Rate TREND:DEC@Overlaps@Blood Glucose TREND:DEC,1,similar
+@@Pair:Heart Rate TREND:DEC@Overlaps@Blood Glucose TREND:DEC,2,similar
+@@Pair:Heart Rate TREND:DEC@Overlaps@Blood Glucose TREND:DEC,3,similar
+@@Pair:Heart Rate TREND:DEC@Overlaps@Blood Glucose TREND:DEC,4,similar
+@@Pair:Heart Rate TREND:DEC@Overlaps@Blood Glucose TREND:DEC,5,similar
+@@Pair:Heart Rate TREND:DEC@Overlaps@Blood Glucose TREND:DEC,6,similar
+@@Pair:Heart Rate TREND:DEC@Overlaps@Blood Glucose TREND:DEC,7,similar
+@@Pair:Heart Rate TREND:DEC@Overlaps@Blood Glucose TREND:DEC,8,similar
+@@Pair:Heart Rate TREND:DEC@Overlaps@Blood Glucose TREND:DEC,9,similar
+@@Pair:Heart Rate TREND:DEC@Overlaps@Blood Glucose TREND:INC,0,similar
+@@Pair:Heart Rate TREND:DEC@Overlaps@Blood Glucose TREND:INC,1,similar
+@@Pair:Heart Rate TREND:DEC@Overlaps@Blood Glucose TREND:INC,2,similar
+@@Pair:Heart Rate TREND:DEC@Overlaps@Blood Glucose TREND:INC,3,similar
+@@Pair:Heart Rate TREND:DEC@Overlaps@Blood Glucose TREND:INC,4,similar
+@@Pair:Heart Rate TREND:DEC@Overlaps@Blood Glucose TREND:INC,5,similar
+@@Pair:Heart Rate TREND:DEC@Overlaps@Blood Glucose TREND:INC,6,similar
+@@Pair:Heart Rate TREND:DEC@Overlaps@Blood Glucose TREND:INC,7,similar
+@@Pair:Heart Rate TREND:DEC@Overlaps@Blood Glucose TREND:INC,8,similar
+@@Pair:Heart Rate TREND:DEC@Overlaps@Blood Glucose TREND:INC,9,similar
+@@Pair:Heart Rate TREND:INC@Before_3@Heart Rate TREND:DEC,0,similar
+@@Pair:Heart Rate TREND:INC@Before_3@Heart Rate TREND:DEC,1,similar
+@@Pair:Heart Rate TREND:INC@Before_3@Heart Rate TREND:DEC,2,similar
+@@Pair:Heart Rate TREND:INC@Before_3@Heart Rate TREND:DEC,3,similar
+@@Pair:Heart Rate TREND:INC@Before_3@Heart Rate TREND:DEC,4,similar
+@@Pair:Heart Rate TREND:INC@Before_3@Heart Rate TREND:DEC,5,similar
+@@Pair:Heart Rate TREND:INC@Before_3@Heart Rate TREND:DEC,6,similar
+@@Pair:Heart Rate TREND:INC@Before_3@Heart Rate TREND:DEC,7,similar
+@@Pair:Heart Rate TREND:INC@Before_3@Heart Rate TREND:DEC,8,similar
+@@Pair:Heart Rate TREND:INC@Before_3@Heart Rate TREND:DEC,9,similar
+@@Pair:Heart Rate TREND:INC@Before_3@Heart Rate TREND:DEC@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:DEC@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:INC,0,similar
+@@Pair:Heart Rate TREND:INC@Before_3@Heart Rate TREND:DEC@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:DEC@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:INC,1,similar
+@@Pair:Heart Rate TREND:INC@Before_3@Heart Rate TREND:DEC@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:DEC@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:INC,2,similar
+@@Pair:Heart Rate TREND:INC@Before_3@Heart Rate TREND:DEC@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:DEC@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:INC,3,similar
+@@Pair:Heart Rate TREND:INC@Before_3@Heart Rate TREND:DEC@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:DEC@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:INC,4,similar
+@@Pair:Heart Rate TREND:INC@Before_3@Heart Rate TREND:DEC@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:DEC@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:INC,5,similar
+@@Pair:Heart Rate TREND:INC@Before_3@Heart Rate TREND:DEC@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:DEC@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:INC,6,similar
+@@Pair:Heart Rate TREND:INC@Before_3@Heart Rate TREND:DEC@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:DEC@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:INC,7,similar
+@@Pair:Heart Rate TREND:INC@Before_3@Heart Rate TREND:DEC@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:DEC@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:INC,8,similar
+@@Pair:Heart Rate TREND:INC@Before_3@Heart Rate TREND:DEC@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:DEC@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:INC,9,similar
+@@Pair:Heart Rate TREND:INC@Contain@Heart Rate STATE:HIGH,0,similar
+@@Pair:Heart Rate TREND:INC@Contain@Heart Rate STATE:HIGH,1,similar
+@@Pair:Heart Rate TREND:INC@Contain@Heart Rate STATE:HIGH,2,similar
+@@Pair:Heart Rate TREND:INC@Contain@Heart Rate STATE:HIGH,3,similar
+@@Pair:Heart Rate TREND:INC@Contain@Heart Rate STATE:HIGH,4,similar
+@@Pair:Heart Rate TREND:INC@Contain@Heart Rate STATE:HIGH,5,similar
+@@Pair:Heart Rate TREND:INC@Contain@Heart Rate STATE:HIGH,6,similar
+@@Pair:Heart Rate TREND:INC@Contain@Heart Rate STATE:HIGH,7,similar
+@@Pair:Heart Rate TREND:INC@Contain@Heart Rate STATE:HIGH,8,similar
+@@Pair:Heart Rate TREND:INC@Contain@Heart Rate STATE:HIGH,9,similar
+@@Pair:Heart Rate TREND:INC@Contain@Temperature STATE:NORMAL,0,similar
+@@Pair:Heart Rate TREND:INC@Contain@Temperature STATE:NORMAL,1,similar
+@@Pair:Heart Rate TREND:INC@Contain@Temperature STATE:NORMAL,2,similar
+@@Pair:Heart Rate TREND:INC@Contain@Temperature STATE:NORMAL,3,similar
+@@Pair:Heart Rate TREND:INC@Contain@Temperature STATE:NORMAL,4,similar
+@@Pair:Heart Rate TREND:INC@Contain@Temperature STATE:NORMAL,5,similar
+@@Pair:Heart Rate TREND:INC@Contain@Temperature STATE:NORMAL,6,similar
+@@Pair:Heart Rate TREND:INC@Contain@Temperature STATE:NORMAL,7,similar
+@@Pair:Heart Rate TREND:INC@Contain@Temperature STATE:NORMAL,8,similar
+@@Pair:Heart Rate TREND:INC@Contain@Temperature STATE:NORMAL,9,similar
+@@Pair:Heart Rate TREND:INC@Contain@Temperature TREND:INC,0,similar
+@@Pair:Heart Rate TREND:INC@Contain@Temperature TREND:INC,1,similar
+@@Pair:Heart Rate TREND:INC@Contain@Temperature TREND:INC,2,similar
+@@Pair:Heart Rate TREND:INC@Contain@Temperature TREND:INC,3,similar
+@@Pair:Heart Rate TREND:INC@Contain@Temperature TREND:INC,4,similar
+@@Pair:Heart Rate TREND:INC@Contain@Temperature TREND:INC,5,similar
+@@Pair:Heart Rate TREND:INC@Contain@Temperature TREND:INC,6,similar
+@@Pair:Heart Rate TREND:INC@Contain@Temperature TREND:INC,7,similar
+@@Pair:Heart Rate TREND:INC@Contain@Temperature TREND:INC,8,similar
+@@Pair:Heart Rate TREND:INC@Contain@Temperature TREND:INC,9,similar
+@@Pair:Heart Rate TREND:INC@Overlaps@Blood Glucose STATE:HIGH,0,similar
+@@Pair:Heart Rate TREND:INC@Overlaps@Blood Glucose STATE:HIGH,1,similar
+@@Pair:Heart Rate TREND:INC@Overlaps@Blood Glucose STATE:HIGH,2,similar
+@@Pair:Heart Rate TREND:INC@Overlaps@Blood Glucose STATE:HIGH,3,similar
+@@Pair:Heart Rate TREND:INC@Overlaps@Blood Glucose STATE:HIGH,4,similar
+@@Pair:Heart Rate TREND:INC@Overlaps@Blood Glucose STATE:HIGH,5,similar
+@@Pair:Heart Rate TREND:INC@Overlaps@Blood Glucose STATE:HIGH,6,similar
+@@Pair:Heart Rate TREND:INC@Overlaps@Blood Glucose STATE:HIGH,7,similar
+@@Pair:Heart Rate TREND:INC@Overlaps@Blood Glucose STATE:HIGH,8,similar
+@@Pair:Heart Rate TREND:INC@Overlaps@Blood Glucose STATE:HIGH,9,similar
+@@Pair:Heart Rate TREND:INC@Overlaps@Blood Glucose TREND:DEC,0,similar
+@@Pair:Heart Rate TREND:INC@Overlaps@Blood Glucose TREND:DEC,1,similar
+@@Pair:Heart Rate TREND:INC@Overlaps@Blood Glucose TREND:DEC,2,similar
+@@Pair:Heart Rate TREND:INC@Overlaps@Blood Glucose TREND:DEC,3,similar
+@@Pair:Heart Rate TREND:INC@Overlaps@Blood Glucose TREND:DEC,4,similar
+@@Pair:Heart Rate TREND:INC@Overlaps@Blood Glucose TREND:DEC,5,similar
+@@Pair:Heart Rate TREND:INC@Overlaps@Blood Glucose TREND:DEC,6,similar
+@@Pair:Heart Rate TREND:INC@Overlaps@Blood Glucose TREND:DEC,7,similar
+@@Pair:Heart Rate TREND:INC@Overlaps@Blood Glucose TREND:DEC,8,not similar
+@@Pair:Heart Rate TREND:INC@Overlaps@Blood Glucose TREND:DEC,9,similar
+@@Pair:Heart Rate TREND:INC@Overlaps@Blood Glucose TREND:INC,0,similar
+@@Pair:Heart Rate TREND:INC@Overlaps@Blood Glucose TREND:INC,1,similar
+@@Pair:Heart Rate TREND:INC@Overlaps@Blood Glucose TREND:INC,2,similar
+@@Pair:Heart Rate TREND:INC@Overlaps@Blood Glucose TREND:INC,3,similar
+@@Pair:Heart Rate TREND:INC@Overlaps@Blood Glucose TREND:INC,4,similar
+@@Pair:Heart Rate TREND:INC@Overlaps@Blood Glucose TREND:INC,5,similar
+@@Pair:Heart Rate TREND:INC@Overlaps@Blood Glucose TREND:INC,6,similar
+@@Pair:Heart Rate TREND:INC@Overlaps@Blood Glucose TREND:INC,7,similar
+@@Pair:Heart Rate TREND:INC@Overlaps@Blood Glucose TREND:INC,8,similar
+@@Pair:Heart Rate TREND:INC@Overlaps@Blood Glucose TREND:INC,9,similar
+@@Pair:Heart Rate TREND:SAME@Before_3@Heart Rate TREND:DEC,0,similar
+@@Pair:Heart Rate TREND:SAME@Before_3@Heart Rate TREND:DEC,1,similar
+@@Pair:Heart Rate TREND:SAME@Before_3@Heart Rate TREND:DEC,2,similar
+@@Pair:Heart Rate TREND:SAME@Before_3@Heart Rate TREND:DEC,3,similar
+@@Pair:Heart Rate TREND:SAME@Before_3@Heart Rate TREND:DEC,4,similar
+@@Pair:Heart Rate TREND:SAME@Before_3@Heart Rate TREND:DEC,5,similar
+@@Pair:Heart Rate TREND:SAME@Before_3@Heart Rate TREND:DEC,6,similar
+@@Pair:Heart Rate TREND:SAME@Before_3@Heart Rate TREND:DEC,7,similar
+@@Pair:Heart Rate TREND:SAME@Before_3@Heart Rate TREND:DEC,8,similar
+@@Pair:Heart Rate TREND:SAME@Before_3@Heart Rate TREND:DEC,9,similar
+@@Pair:Heart Rate TREND:SAME@Contain@Temperature STATE:NORMAL,0,similar
+@@Pair:Heart Rate TREND:SAME@Contain@Temperature STATE:NORMAL,1,similar
+@@Pair:Heart Rate TREND:SAME@Contain@Temperature STATE:NORMAL,2,similar
+@@Pair:Heart Rate TREND:SAME@Contain@Temperature STATE:NORMAL,3,similar
+@@Pair:Heart Rate TREND:SAME@Contain@Temperature STATE:NORMAL,4,similar
+@@Pair:Heart Rate TREND:SAME@Contain@Temperature STATE:NORMAL,5,similar
+@@Pair:Heart Rate TREND:SAME@Contain@Temperature STATE:NORMAL,6,similar
+@@Pair:Heart Rate TREND:SAME@Contain@Temperature STATE:NORMAL,7,similar
+@@Pair:Heart Rate TREND:SAME@Contain@Temperature STATE:NORMAL,8,similar
+@@Pair:Heart Rate TREND:SAME@Contain@Temperature STATE:NORMAL,9,similar
+@@Pair:LDH STATE:NORMAL@Contain@Albumin STATE:LOW,0,similar
+@@Pair:LDH STATE:NORMAL@Contain@Albumin STATE:LOW,1,similar
+@@Pair:LDH STATE:NORMAL@Contain@Albumin STATE:LOW,2,similar
+@@Pair:LDH STATE:NORMAL@Contain@Albumin STATE:LOW,3,similar
+@@Pair:LDH STATE:NORMAL@Contain@Albumin STATE:LOW,4,similar
+@@Pair:LDH STATE:NORMAL@Contain@Albumin STATE:LOW,5,similar
+@@Pair:LDH STATE:NORMAL@Contain@Albumin STATE:LOW,6,similar
+@@Pair:LDH STATE:NORMAL@Contain@Albumin STATE:LOW,7,similar
+@@Pair:LDH STATE:NORMAL@Contain@Albumin STATE:LOW,8,similar
+@@Pair:LDH STATE:NORMAL@Contain@Albumin STATE:LOW,9,similar
+@@Pair:LDH STATE:NORMAL@Contain@Albumin STATE:LOW@@Pair:LDH STATE:NORMAL@Contain@LDH TREND:SAME@@Pair:LDH TREND:SAME@Contain@Albumin STATE:LOW,0,similar
+@@Pair:LDH STATE:NORMAL@Contain@Albumin STATE:LOW@@Pair:LDH STATE:NORMAL@Contain@LDH TREND:SAME@@Pair:LDH TREND:SAME@Contain@Albumin STATE:LOW,1,similar
+@@Pair:LDH STATE:NORMAL@Contain@Albumin STATE:LOW@@Pair:LDH STATE:NORMAL@Contain@LDH TREND:SAME@@Pair:LDH TREND:SAME@Contain@Albumin STATE:LOW,2,similar
+@@Pair:LDH STATE:NORMAL@Contain@Albumin STATE:LOW@@Pair:LDH STATE:NORMAL@Contain@LDH TREND:SAME@@Pair:LDH TREND:SAME@Contain@Albumin STATE:LOW,3,similar
+@@Pair:LDH STATE:NORMAL@Contain@Albumin STATE:LOW@@Pair:LDH STATE:NORMAL@Contain@LDH TREND:SAME@@Pair:LDH TREND:SAME@Contain@Albumin STATE:LOW,4,similar
+@@Pair:LDH STATE:NORMAL@Contain@Albumin STATE:LOW@@Pair:LDH STATE:NORMAL@Contain@LDH TREND:SAME@@Pair:LDH TREND:SAME@Contain@Albumin STATE:LOW,5,similar
+@@Pair:LDH STATE:NORMAL@Contain@Albumin STATE:LOW@@Pair:LDH STATE:NORMAL@Contain@LDH TREND:SAME@@Pair:LDH TREND:SAME@Contain@Albumin STATE:LOW,6,similar
+@@Pair:LDH STATE:NORMAL@Contain@Albumin STATE:LOW@@Pair:LDH STATE:NORMAL@Contain@LDH TREND:SAME@@Pair:LDH TREND:SAME@Contain@Albumin STATE:LOW,7,similar
+@@Pair:LDH STATE:NORMAL@Contain@Albumin STATE:LOW@@Pair:LDH STATE:NORMAL@Contain@LDH TREND:SAME@@Pair:LDH TREND:SAME@Contain@Albumin STATE:LOW,8,similar
+@@Pair:LDH STATE:NORMAL@Contain@Albumin STATE:LOW@@Pair:LDH STATE:NORMAL@Contain@LDH TREND:SAME@@Pair:LDH TREND:SAME@Contain@Albumin STATE:LOW,9,similar
+@@Pair:LDH STATE:NORMAL@Contain@Albumin TREND:SAME,0,similar
+@@Pair:LDH STATE:NORMAL@Contain@Albumin TREND:SAME,1,similar
+@@Pair:LDH STATE:NORMAL@Contain@Albumin TREND:SAME,2,similar
+@@Pair:LDH STATE:NORMAL@Contain@Albumin TREND:SAME,3,similar
+@@Pair:LDH STATE:NORMAL@Contain@Albumin TREND:SAME,4,similar
+@@Pair:LDH STATE:NORMAL@Contain@Albumin TREND:SAME,5,similar
+@@Pair:LDH STATE:NORMAL@Contain@Albumin TREND:SAME,6,similar
+@@Pair:LDH STATE:NORMAL@Contain@Albumin TREND:SAME,7,similar
+@@Pair:LDH STATE:NORMAL@Contain@Albumin TREND:SAME,8,similar
+@@Pair:LDH STATE:NORMAL@Contain@Albumin TREND:SAME,9,similar
+@@Pair:LDH STATE:NORMAL@Contain@Albumin TREND:SAME@@Pair:LDH STATE:NORMAL@Contain@LDH TREND:SAME@@Pair:LDH TREND:SAME@Contain@Albumin TREND:SAME,0,similar
+@@Pair:LDH STATE:NORMAL@Contain@Albumin TREND:SAME@@Pair:LDH STATE:NORMAL@Contain@LDH TREND:SAME@@Pair:LDH TREND:SAME@Contain@Albumin TREND:SAME,1,similar
+@@Pair:LDH STATE:NORMAL@Contain@Albumin TREND:SAME@@Pair:LDH STATE:NORMAL@Contain@LDH TREND:SAME@@Pair:LDH TREND:SAME@Contain@Albumin TREND:SAME,2,similar
+@@Pair:LDH STATE:NORMAL@Contain@Albumin TREND:SAME@@Pair:LDH STATE:NORMAL@Contain@LDH TREND:SAME@@Pair:LDH TREND:SAME@Contain@Albumin TREND:SAME,3,similar
+@@Pair:LDH STATE:NORMAL@Contain@Albumin TREND:SAME@@Pair:LDH STATE:NORMAL@Contain@LDH TREND:SAME@@Pair:LDH TREND:SAME@Contain@Albumin TREND:SAME,4,similar
+@@Pair:LDH STATE:NORMAL@Contain@Albumin TREND:SAME@@Pair:LDH STATE:NORMAL@Contain@LDH TREND:SAME@@Pair:LDH TREND:SAME@Contain@Albumin TREND:SAME,5,similar
+@@Pair:LDH STATE:NORMAL@Contain@Albumin TREND:SAME@@Pair:LDH STATE:NORMAL@Contain@LDH TREND:SAME@@Pair:LDH TREND:SAME@Contain@Albumin TREND:SAME,6,similar
+@@Pair:LDH STATE:NORMAL@Contain@Albumin TREND:SAME@@Pair:LDH STATE:NORMAL@Contain@LDH TREND:SAME@@Pair:LDH TREND:SAME@Contain@Albumin TREND:SAME,7,similar
+@@Pair:LDH STATE:NORMAL@Contain@Albumin TREND:SAME@@Pair:LDH STATE:NORMAL@Contain@LDH TREND:SAME@@Pair:LDH TREND:SAME@Contain@Albumin TREND:SAME,8,similar
+@@Pair:LDH STATE:NORMAL@Contain@Albumin TREND:SAME@@Pair:LDH STATE:NORMAL@Contain@LDH TREND:SAME@@Pair:LDH TREND:SAME@Contain@Albumin TREND:SAME,9,similar
+@@Pair:LDH STATE:NORMAL@Contain@LDH TREND:SAME,0,similar
+@@Pair:LDH STATE:NORMAL@Contain@LDH TREND:SAME,1,similar
+@@Pair:LDH STATE:NORMAL@Contain@LDH TREND:SAME,2,similar
+@@Pair:LDH STATE:NORMAL@Contain@LDH TREND:SAME,3,not similar
+@@Pair:LDH STATE:NORMAL@Contain@LDH TREND:SAME,4,similar
+@@Pair:LDH STATE:NORMAL@Contain@LDH TREND:SAME,5,similar
+@@Pair:LDH STATE:NORMAL@Contain@LDH TREND:SAME,6,similar
+@@Pair:LDH STATE:NORMAL@Contain@LDH TREND:SAME,7,similar
+@@Pair:LDH STATE:NORMAL@Contain@LDH TREND:SAME,8,similar
+@@Pair:LDH STATE:NORMAL@Contain@LDH TREND:SAME,9,similar
+@@Pair:LDH TREND:SAME@Contain@Albumin STATE:LOW,0,similar
+@@Pair:LDH TREND:SAME@Contain@Albumin STATE:LOW,1,similar
+@@Pair:LDH TREND:SAME@Contain@Albumin STATE:LOW,2,similar
+@@Pair:LDH TREND:SAME@Contain@Albumin STATE:LOW,3,similar
+@@Pair:LDH TREND:SAME@Contain@Albumin STATE:LOW,4,similar
+@@Pair:LDH TREND:SAME@Contain@Albumin STATE:LOW,5,similar
+@@Pair:LDH TREND:SAME@Contain@Albumin STATE:LOW,6,similar
+@@Pair:LDH TREND:SAME@Contain@Albumin STATE:LOW,7,similar
+@@Pair:LDH TREND:SAME@Contain@Albumin STATE:LOW,8,similar
+@@Pair:LDH TREND:SAME@Contain@Albumin STATE:LOW,9,similar
+@@Pair:LDH TREND:SAME@Contain@Albumin TREND:SAME,0,similar
+@@Pair:LDH TREND:SAME@Contain@Albumin TREND:SAME,1,similar
+@@Pair:LDH TREND:SAME@Contain@Albumin TREND:SAME,2,similar
+@@Pair:LDH TREND:SAME@Contain@Albumin TREND:SAME,3,similar
+@@Pair:LDH TREND:SAME@Contain@Albumin TREND:SAME,4,similar
+@@Pair:LDH TREND:SAME@Contain@Albumin TREND:SAME,5,similar
+@@Pair:LDH TREND:SAME@Contain@Albumin TREND:SAME,6,similar
+@@Pair:LDH TREND:SAME@Contain@Albumin TREND:SAME,7,similar
+@@Pair:LDH TREND:SAME@Contain@Albumin TREND:SAME,8,similar
+@@Pair:LDH TREND:SAME@Contain@Albumin TREND:SAME,9,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Bicarbonate  TREND:SAME,0,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Bicarbonate  TREND:SAME,1,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Bicarbonate  TREND:SAME,2,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Bicarbonate  TREND:SAME,3,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Bicarbonate  TREND:SAME,4,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Bicarbonate  TREND:SAME,5,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Bicarbonate  TREND:SAME,6,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Bicarbonate  TREND:SAME,7,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Bicarbonate  TREND:SAME,8,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Bicarbonate  TREND:SAME,9,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Lactate TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Bicarbonate  TREND:SAME,0,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Lactate TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Bicarbonate  TREND:SAME,1,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Lactate TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Bicarbonate  TREND:SAME,2,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Lactate TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Bicarbonate  TREND:SAME,3,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Lactate TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Bicarbonate  TREND:SAME,4,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Lactate TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Bicarbonate  TREND:SAME,5,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Lactate TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Bicarbonate  TREND:SAME,6,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Lactate TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Bicarbonate  TREND:SAME,7,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Lactate TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Bicarbonate  TREND:SAME,8,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Bicarbonate  TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Lactate TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Bicarbonate  TREND:SAME,9,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Blood pH STATE:NORMAL,0,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Blood pH STATE:NORMAL,1,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Blood pH STATE:NORMAL,2,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Blood pH STATE:NORMAL,3,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Blood pH STATE:NORMAL,4,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Blood pH STATE:NORMAL,5,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Blood pH STATE:NORMAL,6,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Blood pH STATE:NORMAL,7,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Blood pH STATE:NORMAL,8,not similar
+@@Pair:Lactate STATE:NORMAL@Contain@Blood pH STATE:NORMAL,9,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Blood pH TREND:SAME,0,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Blood pH TREND:SAME,1,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Blood pH TREND:SAME,2,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Blood pH TREND:SAME,3,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Blood pH TREND:SAME,4,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Blood pH TREND:SAME,5,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Blood pH TREND:SAME,6,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Blood pH TREND:SAME,7,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Blood pH TREND:SAME,8,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Blood pH TREND:SAME,9,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Blood pH TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Lactate TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Blood pH TREND:SAME,0,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Blood pH TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Lactate TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Blood pH TREND:SAME,1,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Blood pH TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Lactate TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Blood pH TREND:SAME,2,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Blood pH TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Lactate TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Blood pH TREND:SAME,3,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Blood pH TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Lactate TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Blood pH TREND:SAME,4,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Blood pH TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Lactate TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Blood pH TREND:SAME,5,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Blood pH TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Lactate TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Blood pH TREND:SAME,6,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Blood pH TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Lactate TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Blood pH TREND:SAME,7,not similar
+@@Pair:Lactate STATE:NORMAL@Contain@Blood pH TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Lactate TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Blood pH TREND:SAME,8,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Blood pH TREND:SAME@@Pair:Lactate STATE:NORMAL@Contain@Lactate TREND:SAME@@Pair:Lactate TREND:SAME@Contain@Blood pH TREND:SAME,9,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Lactate TREND:SAME,0,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Lactate TREND:SAME,1,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Lactate TREND:SAME,2,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Lactate TREND:SAME,3,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Lactate TREND:SAME,4,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Lactate TREND:SAME,5,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Lactate TREND:SAME,6,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Lactate TREND:SAME,7,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Lactate TREND:SAME,8,similar
+@@Pair:Lactate STATE:NORMAL@Contain@Lactate TREND:SAME,9,similar
+@@Pair:Lactate TREND:SAME@Contain@Bicarbonate  TREND:SAME,0,similar
+@@Pair:Lactate TREND:SAME@Contain@Bicarbonate  TREND:SAME,1,similar
+@@Pair:Lactate TREND:SAME@Contain@Bicarbonate  TREND:SAME,2,similar
+@@Pair:Lactate TREND:SAME@Contain@Bicarbonate  TREND:SAME,3,similar
+@@Pair:Lactate TREND:SAME@Contain@Bicarbonate  TREND:SAME,4,similar
+@@Pair:Lactate TREND:SAME@Contain@Bicarbonate  TREND:SAME,5,similar
+@@Pair:Lactate TREND:SAME@Contain@Bicarbonate  TREND:SAME,6,similar
+@@Pair:Lactate TREND:SAME@Contain@Bicarbonate  TREND:SAME,7,similar
+@@Pair:Lactate TREND:SAME@Contain@Bicarbonate  TREND:SAME,8,similar
+@@Pair:Lactate TREND:SAME@Contain@Bicarbonate  TREND:SAME,9,similar
+@@Pair:Lactate TREND:SAME@Contain@Blood pH STATE:NORMAL,0,similar
+@@Pair:Lactate TREND:SAME@Contain@Blood pH STATE:NORMAL,1,similar
+@@Pair:Lactate TREND:SAME@Contain@Blood pH STATE:NORMAL,2,similar
+@@Pair:Lactate TREND:SAME@Contain@Blood pH STATE:NORMAL,3,similar
+@@Pair:Lactate TREND:SAME@Contain@Blood pH STATE:NORMAL,4,similar
+@@Pair:Lactate TREND:SAME@Contain@Blood pH STATE:NORMAL,5,similar
+@@Pair:Lactate TREND:SAME@Contain@Blood pH STATE:NORMAL,6,similar
+@@Pair:Lactate TREND:SAME@Contain@Blood pH STATE:NORMAL,7,similar
+@@Pair:Lactate TREND:SAME@Contain@Blood pH STATE:NORMAL,8,similar
+@@Pair:Lactate TREND:SAME@Contain@Blood pH STATE:NORMAL,9,similar
+@@Pair:Lactate TREND:SAME@Contain@Blood pH TREND:SAME,0,similar
+@@Pair:Lactate TREND:SAME@Contain@Blood pH TREND:SAME,1,similar
+@@Pair:Lactate TREND:SAME@Contain@Blood pH TREND:SAME,2,similar
+@@Pair:Lactate TREND:SAME@Contain@Blood pH TREND:SAME,3,similar
+@@Pair:Lactate TREND:SAME@Contain@Blood pH TREND:SAME,4,similar
+@@Pair:Lactate TREND:SAME@Contain@Blood pH TREND:SAME,5,similar
+@@Pair:Lactate TREND:SAME@Contain@Blood pH TREND:SAME,6,similar
+@@Pair:Lactate TREND:SAME@Contain@Blood pH TREND:SAME,7,similar
+@@Pair:Lactate TREND:SAME@Contain@Blood pH TREND:SAME,8,similar
+@@Pair:Lactate TREND:SAME@Contain@Blood pH TREND:SAME,9,similar
+@@Pair:Neutrophils STATE:HIGH@Contain@Neutrophils TREND:SAME,0,similar
+@@Pair:Neutrophils STATE:HIGH@Contain@Neutrophils TREND:SAME,1,similar
+@@Pair:Neutrophils STATE:HIGH@Contain@Neutrophils TREND:SAME,2,similar
+@@Pair:Neutrophils STATE:HIGH@Contain@Neutrophils TREND:SAME,3,similar
+@@Pair:Neutrophils STATE:HIGH@Contain@Neutrophils TREND:SAME,4,similar
+@@Pair:Neutrophils STATE:HIGH@Contain@Neutrophils TREND:SAME,5,similar
+@@Pair:Neutrophils STATE:HIGH@Contain@Neutrophils TREND:SAME,6,similar
+@@Pair:Neutrophils STATE:HIGH@Contain@Neutrophils TREND:SAME,7,similar
+@@Pair:Neutrophils STATE:HIGH@Contain@Neutrophils TREND:SAME,8,similar
+@@Pair:Neutrophils STATE:HIGH@Contain@Neutrophils TREND:SAME,9,similar
+@@Pair:Neutrophils STATE:NORMAL@Contain@Neutrophils TREND:SAME,0,similar
+@@Pair:Neutrophils STATE:NORMAL@Contain@Neutrophils TREND:SAME,1,similar
+@@Pair:Neutrophils STATE:NORMAL@Contain@Neutrophils TREND:SAME,2,similar
+@@Pair:Neutrophils STATE:NORMAL@Contain@Neutrophils TREND:SAME,3,similar
+@@Pair:Neutrophils STATE:NORMAL@Contain@Neutrophils TREND:SAME,4,similar
+@@Pair:Neutrophils STATE:NORMAL@Contain@Neutrophils TREND:SAME,5,similar
+@@Pair:Neutrophils STATE:NORMAL@Contain@Neutrophils TREND:SAME,6,similar
+@@Pair:Neutrophils STATE:NORMAL@Contain@Neutrophils TREND:SAME,7,similar
+@@Pair:Neutrophils STATE:NORMAL@Contain@Neutrophils TREND:SAME,8,similar
+@@Pair:Neutrophils STATE:NORMAL@Contain@Neutrophils TREND:SAME,9,similar
+@@Pair:Neutrophils STATE:NORMAL@Contain@Neutrophils TREND:SAME@@Pair:WBC STATE:NORMAL@Contain@Neutrophils STATE:NORMAL@@Pair:WBC STATE:NORMAL@Contain@Neutrophils TREND:SAME,0,similar
+@@Pair:Neutrophils STATE:NORMAL@Contain@Neutrophils TREND:SAME@@Pair:WBC STATE:NORMAL@Contain@Neutrophils STATE:NORMAL@@Pair:WBC STATE:NORMAL@Contain@Neutrophils TREND:SAME,1,not similar
+@@Pair:Neutrophils STATE:NORMAL@Contain@Neutrophils TREND:SAME@@Pair:WBC STATE:NORMAL@Contain@Neutrophils STATE:NORMAL@@Pair:WBC STATE:NORMAL@Contain@Neutrophils TREND:SAME,2,similar
+@@Pair:Neutrophils STATE:NORMAL@Contain@Neutrophils TREND:SAME@@Pair:WBC STATE:NORMAL@Contain@Neutrophils STATE:NORMAL@@Pair:WBC STATE:NORMAL@Contain@Neutrophils TREND:SAME,3,similar
+@@Pair:Neutrophils STATE:NORMAL@Contain@Neutrophils TREND:SAME@@Pair:WBC STATE:NORMAL@Contain@Neutrophils STATE:NORMAL@@Pair:WBC STATE:NORMAL@Contain@Neutrophils TREND:SAME,4,similar
+@@Pair:Neutrophils STATE:NORMAL@Contain@Neutrophils TREND:SAME@@Pair:WBC STATE:NORMAL@Contain@Neutrophils STATE:NORMAL@@Pair:WBC STATE:NORMAL@Contain@Neutrophils TREND:SAME,5,similar
+@@Pair:Neutrophils STATE:NORMAL@Contain@Neutrophils TREND:SAME@@Pair:WBC STATE:NORMAL@Contain@Neutrophils STATE:NORMAL@@Pair:WBC STATE:NORMAL@Contain@Neutrophils TREND:SAME,6,similar
+@@Pair:Neutrophils STATE:NORMAL@Contain@Neutrophils TREND:SAME@@Pair:WBC STATE:NORMAL@Contain@Neutrophils STATE:NORMAL@@Pair:WBC STATE:NORMAL@Contain@Neutrophils TREND:SAME,7,similar
+@@Pair:Neutrophils STATE:NORMAL@Contain@Neutrophils TREND:SAME@@Pair:WBC STATE:NORMAL@Contain@Neutrophils STATE:NORMAL@@Pair:WBC STATE:NORMAL@Contain@Neutrophils TREND:SAME,8,similar
+@@Pair:Neutrophils STATE:NORMAL@Contain@Neutrophils TREND:SAME@@Pair:WBC STATE:NORMAL@Contain@Neutrophils STATE:NORMAL@@Pair:WBC STATE:NORMAL@Contain@Neutrophils TREND:SAME,9,similar
+@@Pair:Temperature STATE:HIGH@Before_3@Temperature TREND:DEC,0,similar
+@@Pair:Temperature STATE:HIGH@Before_3@Temperature TREND:DEC,1,similar
+@@Pair:Temperature STATE:HIGH@Before_3@Temperature TREND:DEC,2,similar
+@@Pair:Temperature STATE:HIGH@Before_3@Temperature TREND:DEC,3,similar
+@@Pair:Temperature STATE:HIGH@Before_3@Temperature TREND:DEC,4,similar
+@@Pair:Temperature STATE:HIGH@Before_3@Temperature TREND:DEC,5,similar
+@@Pair:Temperature STATE:HIGH@Before_3@Temperature TREND:DEC,6,similar
+@@Pair:Temperature STATE:HIGH@Before_3@Temperature TREND:DEC,7,similar
+@@Pair:Temperature STATE:HIGH@Before_3@Temperature TREND:DEC,8,similar
+@@Pair:Temperature STATE:HIGH@Before_3@Temperature TREND:DEC,9,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Bicarbonate  TREND:SAME,0,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Bicarbonate  TREND:SAME,1,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Bicarbonate  TREND:SAME,2,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Bicarbonate  TREND:SAME,3,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Bicarbonate  TREND:SAME,4,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Bicarbonate  TREND:SAME,5,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Bicarbonate  TREND:SAME,6,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Bicarbonate  TREND:SAME,7,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Bicarbonate  TREND:SAME,8,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Bicarbonate  TREND:SAME,9,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose STATE:ELEVATED,0,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose STATE:ELEVATED,1,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose STATE:ELEVATED,2,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose STATE:ELEVATED,3,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose STATE:ELEVATED,4,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose STATE:ELEVATED,5,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose STATE:ELEVATED,6,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose STATE:ELEVATED,7,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose STATE:ELEVATED,8,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose STATE:ELEVATED,9,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose STATE:HIGH,0,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose STATE:HIGH,1,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose STATE:HIGH,2,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose STATE:HIGH,3,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose STATE:HIGH,4,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose STATE:HIGH,5,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose STATE:HIGH,6,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose STATE:HIGH,7,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose STATE:HIGH,8,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose STATE:HIGH,9,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose STATE:NORMAL,0,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose STATE:NORMAL,1,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose STATE:NORMAL,2,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose STATE:NORMAL,3,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose STATE:NORMAL,4,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose STATE:NORMAL,5,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose STATE:NORMAL,6,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose STATE:NORMAL,7,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose STATE:NORMAL,8,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose STATE:NORMAL,9,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:DEC,0,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:DEC,1,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:DEC,2,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:DEC,3,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:DEC,4,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:DEC,5,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:DEC,6,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:DEC,7,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:DEC,8,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:DEC,9,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:INC,0,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:INC,1,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:INC,2,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:INC,3,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:INC,4,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:INC,5,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:INC,6,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:INC,7,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:INC,8,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:INC,9,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:SAME,0,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:SAME,1,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:SAME,2,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:SAME,3,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:SAME,4,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:SAME,5,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:SAME,6,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:SAME,7,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:SAME,8,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood Glucose TREND:SAME,9,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood pH STATE:NORMAL,0,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood pH STATE:NORMAL,1,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood pH STATE:NORMAL,2,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood pH STATE:NORMAL,3,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood pH STATE:NORMAL,4,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood pH STATE:NORMAL,5,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood pH STATE:NORMAL,6,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood pH STATE:NORMAL,7,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood pH STATE:NORMAL,8,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Blood pH STATE:NORMAL,9,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Creatinine TREND:SAME,0,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Creatinine TREND:SAME,1,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Creatinine TREND:SAME,2,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Creatinine TREND:SAME,3,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Creatinine TREND:SAME,4,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Creatinine TREND:SAME,5,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Creatinine TREND:SAME,6,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Creatinine TREND:SAME,7,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Creatinine TREND:SAME,8,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Creatinine TREND:SAME,9,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate STATE:HIGH,0,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate STATE:HIGH,1,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate STATE:HIGH,2,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate STATE:HIGH,3,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate STATE:HIGH,4,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate STATE:HIGH,5,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate STATE:HIGH,6,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate STATE:HIGH,7,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate STATE:HIGH,8,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate STATE:HIGH,9,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate STATE:NORMAL,0,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate STATE:NORMAL,1,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate STATE:NORMAL,2,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate STATE:NORMAL,3,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate STATE:NORMAL,4,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate STATE:NORMAL,5,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate STATE:NORMAL,6,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate STATE:NORMAL,7,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate STATE:NORMAL,8,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate STATE:NORMAL,9,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:DEC,0,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:DEC,1,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:DEC,2,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:DEC,3,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:DEC,4,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:DEC,5,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:DEC,6,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:DEC,7,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:DEC,8,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:DEC,9,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:INC,0,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:INC,1,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:INC,2,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:INC,3,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:INC,4,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:INC,5,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:INC,6,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:INC,7,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:INC,8,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:INC,9,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:SAME,0,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:SAME,1,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:SAME,2,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:SAME,3,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:SAME,4,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:SAME,5,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:SAME,6,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:SAME,7,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:SAME,8,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Heart Rate TREND:SAME,9,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Lactate STATE:NORMAL,0,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Lactate STATE:NORMAL,1,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Lactate STATE:NORMAL,2,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Lactate STATE:NORMAL,3,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Lactate STATE:NORMAL,4,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Lactate STATE:NORMAL,5,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Lactate STATE:NORMAL,6,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Lactate STATE:NORMAL,7,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Lactate STATE:NORMAL,8,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Lactate STATE:NORMAL,9,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Lactate TREND:SAME,0,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Lactate TREND:SAME,1,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Lactate TREND:SAME,2,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Lactate TREND:SAME,3,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Lactate TREND:SAME,4,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Lactate TREND:SAME,5,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Lactate TREND:SAME,6,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Lactate TREND:SAME,7,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Lactate TREND:SAME,8,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Lactate TREND:SAME,9,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Neutrophils TREND:SAME,0,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Neutrophils TREND:SAME,1,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Neutrophils TREND:SAME,2,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Neutrophils TREND:SAME,3,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Neutrophils TREND:SAME,4,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Neutrophils TREND:SAME,5,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Neutrophils TREND:SAME,6,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Neutrophils TREND:SAME,7,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Neutrophils TREND:SAME,8,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Neutrophils TREND:SAME,9,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Temperature TREND:DEC,0,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Temperature TREND:DEC,1,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Temperature TREND:DEC,2,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Temperature TREND:DEC,3,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Temperature TREND:DEC,4,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Temperature TREND:DEC,5,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Temperature TREND:DEC,6,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Temperature TREND:DEC,7,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Temperature TREND:DEC,8,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Temperature TREND:DEC,9,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Temperature TREND:INC,0,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Temperature TREND:INC,1,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Temperature TREND:INC,2,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Temperature TREND:INC,3,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Temperature TREND:INC,4,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Temperature TREND:INC,5,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Temperature TREND:INC,6,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Temperature TREND:INC,7,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Temperature TREND:INC,8,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Temperature TREND:INC,9,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Temperature TREND:SAME,0,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Temperature TREND:SAME,1,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Temperature TREND:SAME,2,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Temperature TREND:SAME,3,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Temperature TREND:SAME,4,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Temperature TREND:SAME,5,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Temperature TREND:SAME,6,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Temperature TREND:SAME,7,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Temperature TREND:SAME,8,similar
+@@Pair:Temperature STATE:NORMAL@Contain@Temperature TREND:SAME,9,similar
+@@Pair:Temperature STATE:NORMAL@Contain@WBC STATE:NORMAL,0,similar
+@@Pair:Temperature STATE:NORMAL@Contain@WBC STATE:NORMAL,1,similar
+@@Pair:Temperature STATE:NORMAL@Contain@WBC STATE:NORMAL,2,similar
+@@Pair:Temperature STATE:NORMAL@Contain@WBC STATE:NORMAL,3,similar
+@@Pair:Temperature STATE:NORMAL@Contain@WBC STATE:NORMAL,4,similar
+@@Pair:Temperature STATE:NORMAL@Contain@WBC STATE:NORMAL,5,similar
+@@Pair:Temperature STATE:NORMAL@Contain@WBC STATE:NORMAL,6,similar
+@@Pair:Temperature STATE:NORMAL@Contain@WBC STATE:NORMAL,7,similar
+@@Pair:Temperature STATE:NORMAL@Contain@WBC STATE:NORMAL,8,similar
+@@Pair:Temperature STATE:NORMAL@Contain@WBC STATE:NORMAL,9,similar
+@@Pair:Temperature STATE:NORMAL@Contain@WBC TREND:SAME,0,similar
+@@Pair:Temperature STATE:NORMAL@Contain@WBC TREND:SAME,1,similar
+@@Pair:Temperature STATE:NORMAL@Contain@WBC TREND:SAME,2,similar
+@@Pair:Temperature STATE:NORMAL@Contain@WBC TREND:SAME,3,similar
+@@Pair:Temperature STATE:NORMAL@Contain@WBC TREND:SAME,4,similar
+@@Pair:Temperature STATE:NORMAL@Contain@WBC TREND:SAME,5,similar
+@@Pair:Temperature STATE:NORMAL@Contain@WBC TREND:SAME,6,similar
+@@Pair:Temperature STATE:NORMAL@Contain@WBC TREND:SAME,7,similar
+@@Pair:Temperature STATE:NORMAL@Contain@WBC TREND:SAME,8,similar
+@@Pair:Temperature STATE:NORMAL@Contain@WBC TREND:SAME,9,similar
+@@Pair:Temperature STATE:NORMAL@Overlaps@Blood Glucose STATE:HIGH,0,similar
+@@Pair:Temperature STATE:NORMAL@Overlaps@Blood Glucose STATE:HIGH,1,similar
+@@Pair:Temperature STATE:NORMAL@Overlaps@Blood Glucose STATE:HIGH,2,similar
+@@Pair:Temperature STATE:NORMAL@Overlaps@Blood Glucose STATE:HIGH,3,similar
+@@Pair:Temperature STATE:NORMAL@Overlaps@Blood Glucose STATE:HIGH,4,similar
+@@Pair:Temperature STATE:NORMAL@Overlaps@Blood Glucose STATE:HIGH,5,similar
+@@Pair:Temperature STATE:NORMAL@Overlaps@Blood Glucose STATE:HIGH,6,similar
+@@Pair:Temperature STATE:NORMAL@Overlaps@Blood Glucose STATE:HIGH,7,similar
+@@Pair:Temperature STATE:NORMAL@Overlaps@Blood Glucose STATE:HIGH,8,similar
+@@Pair:Temperature STATE:NORMAL@Overlaps@Blood Glucose STATE:HIGH,9,similar
+@@Pair:Temperature STATE:NORMAL@Overlaps@Blood Glucose TREND:DEC,0,not similar
+@@Pair:Temperature STATE:NORMAL@Overlaps@Blood Glucose TREND:DEC,1,similar
+@@Pair:Temperature STATE:NORMAL@Overlaps@Blood Glucose TREND:DEC,2,similar
+@@Pair:Temperature STATE:NORMAL@Overlaps@Blood Glucose TREND:DEC,3,similar
+@@Pair:Temperature STATE:NORMAL@Overlaps@Blood Glucose TREND:DEC,4,similar
+@@Pair:Temperature STATE:NORMAL@Overlaps@Blood Glucose TREND:DEC,5,similar
+@@Pair:Temperature STATE:NORMAL@Overlaps@Blood Glucose TREND:DEC,6,similar
+@@Pair:Temperature STATE:NORMAL@Overlaps@Blood Glucose TREND:DEC,7,similar
+@@Pair:Temperature STATE:NORMAL@Overlaps@Blood Glucose TREND:DEC,8,similar
+@@Pair:Temperature STATE:NORMAL@Overlaps@Blood Glucose TREND:DEC,9,similar
+@@Pair:Temperature STATE:NORMAL@Overlaps@Blood Glucose TREND:INC,0,similar
+@@Pair:Temperature STATE:NORMAL@Overlaps@Blood Glucose TREND:INC,1,similar
+@@Pair:Temperature STATE:NORMAL@Overlaps@Blood Glucose TREND:INC,2,similar
+@@Pair:Temperature STATE:NORMAL@Overlaps@Blood Glucose TREND:INC,3,similar
+@@Pair:Temperature STATE:NORMAL@Overlaps@Blood Glucose TREND:INC,4,similar
+@@Pair:Temperature STATE:NORMAL@Overlaps@Blood Glucose TREND:INC,5,similar
+@@Pair:Temperature STATE:NORMAL@Overlaps@Blood Glucose TREND:INC,6,similar
+@@Pair:Temperature STATE:NORMAL@Overlaps@Blood Glucose TREND:INC,7,similar
+@@Pair:Temperature STATE:NORMAL@Overlaps@Blood Glucose TREND:INC,8,similar
+@@Pair:Temperature STATE:NORMAL@Overlaps@Blood Glucose TREND:INC,9,similar
+@@Pair:Temperature TREND:DEC@Before_3@Temperature TREND:INC,0,similar
+@@Pair:Temperature TREND:DEC@Before_3@Temperature TREND:INC,1,similar
+@@Pair:Temperature TREND:DEC@Before_3@Temperature TREND:INC,2,similar
+@@Pair:Temperature TREND:DEC@Before_3@Temperature TREND:INC,3,similar
+@@Pair:Temperature TREND:DEC@Before_3@Temperature TREND:INC,4,similar
+@@Pair:Temperature TREND:DEC@Before_3@Temperature TREND:INC,5,similar
+@@Pair:Temperature TREND:DEC@Before_3@Temperature TREND:INC,6,similar
+@@Pair:Temperature TREND:DEC@Before_3@Temperature TREND:INC,7,similar
+@@Pair:Temperature TREND:DEC@Before_3@Temperature TREND:INC,8,similar
+@@Pair:Temperature TREND:DEC@Before_3@Temperature TREND:INC,9,similar
+@@Pair:Temperature TREND:DEC@Contain@Heart Rate STATE:HIGH,0,similar
+@@Pair:Temperature TREND:DEC@Contain@Heart Rate STATE:HIGH,1,similar
+@@Pair:Temperature TREND:DEC@Contain@Heart Rate STATE:HIGH,2,similar
+@@Pair:Temperature TREND:DEC@Contain@Heart Rate STATE:HIGH,3,similar
+@@Pair:Temperature TREND:DEC@Contain@Heart Rate STATE:HIGH,4,similar
+@@Pair:Temperature TREND:DEC@Contain@Heart Rate STATE:HIGH,5,similar
+@@Pair:Temperature TREND:DEC@Contain@Heart Rate STATE:HIGH,6,similar
+@@Pair:Temperature TREND:DEC@Contain@Heart Rate STATE:HIGH,7,similar
+@@Pair:Temperature TREND:DEC@Contain@Heart Rate STATE:HIGH,8,similar
+@@Pair:Temperature TREND:DEC@Contain@Heart Rate STATE:HIGH,9,similar
+@@Pair:Temperature TREND:DEC@Contain@Heart Rate STATE:NORMAL,0,similar
+@@Pair:Temperature TREND:DEC@Contain@Heart Rate STATE:NORMAL,1,similar
+@@Pair:Temperature TREND:DEC@Contain@Heart Rate STATE:NORMAL,2,similar
+@@Pair:Temperature TREND:DEC@Contain@Heart Rate STATE:NORMAL,3,similar
+@@Pair:Temperature TREND:DEC@Contain@Heart Rate STATE:NORMAL,4,similar
+@@Pair:Temperature TREND:DEC@Contain@Heart Rate STATE:NORMAL,5,similar
+@@Pair:Temperature TREND:DEC@Contain@Heart Rate STATE:NORMAL,6,similar
+@@Pair:Temperature TREND:DEC@Contain@Heart Rate STATE:NORMAL,7,similar
+@@Pair:Temperature TREND:DEC@Contain@Heart Rate STATE:NORMAL,8,similar
+@@Pair:Temperature TREND:DEC@Contain@Heart Rate STATE:NORMAL,9,similar
+@@Pair:Temperature TREND:DEC@Contain@Heart Rate TREND:DEC,0,similar
+@@Pair:Temperature TREND:DEC@Contain@Heart Rate TREND:DEC,1,similar
+@@Pair:Temperature TREND:DEC@Contain@Heart Rate TREND:DEC,2,similar
+@@Pair:Temperature TREND:DEC@Contain@Heart Rate TREND:DEC,3,similar
+@@Pair:Temperature TREND:DEC@Contain@Heart Rate TREND:DEC,4,similar
+@@Pair:Temperature TREND:DEC@Contain@Heart Rate TREND:DEC,5,similar
+@@Pair:Temperature TREND:DEC@Contain@Heart Rate TREND:DEC,6,similar
+@@Pair:Temperature TREND:DEC@Contain@Heart Rate TREND:DEC,7,similar
+@@Pair:Temperature TREND:DEC@Contain@Heart Rate TREND:DEC,8,similar
+@@Pair:Temperature TREND:DEC@Contain@Heart Rate TREND:DEC,9,similar
+@@Pair:Temperature TREND:DEC@Contain@Temperature STATE:NORMAL,0,similar
+@@Pair:Temperature TREND:DEC@Contain@Temperature STATE:NORMAL,1,similar
+@@Pair:Temperature TREND:DEC@Contain@Temperature STATE:NORMAL,2,similar
+@@Pair:Temperature TREND:DEC@Contain@Temperature STATE:NORMAL,3,similar
+@@Pair:Temperature TREND:DEC@Contain@Temperature STATE:NORMAL,4,similar
+@@Pair:Temperature TREND:DEC@Contain@Temperature STATE:NORMAL,5,similar
+@@Pair:Temperature TREND:DEC@Contain@Temperature STATE:NORMAL,6,similar
+@@Pair:Temperature TREND:DEC@Contain@Temperature STATE:NORMAL,7,similar
+@@Pair:Temperature TREND:DEC@Contain@Temperature STATE:NORMAL,8,similar
+@@Pair:Temperature TREND:DEC@Contain@Temperature STATE:NORMAL,9,similar
+@@Pair:Temperature TREND:DEC@Overlaps@Blood Glucose STATE:HIGH,0,similar
+@@Pair:Temperature TREND:DEC@Overlaps@Blood Glucose STATE:HIGH,1,similar
+@@Pair:Temperature TREND:DEC@Overlaps@Blood Glucose STATE:HIGH,2,similar
+@@Pair:Temperature TREND:DEC@Overlaps@Blood Glucose STATE:HIGH,3,similar
+@@Pair:Temperature TREND:DEC@Overlaps@Blood Glucose STATE:HIGH,4,similar
+@@Pair:Temperature TREND:DEC@Overlaps@Blood Glucose STATE:HIGH,5,similar
+@@Pair:Temperature TREND:DEC@Overlaps@Blood Glucose STATE:HIGH,6,similar
+@@Pair:Temperature TREND:DEC@Overlaps@Blood Glucose STATE:HIGH,7,similar
+@@Pair:Temperature TREND:DEC@Overlaps@Blood Glucose STATE:HIGH,8,similar
+@@Pair:Temperature TREND:DEC@Overlaps@Blood Glucose STATE:HIGH,9,similar
+@@Pair:Temperature TREND:DEC@Overlaps@Blood Glucose TREND:DEC,0,similar
+@@Pair:Temperature TREND:DEC@Overlaps@Blood Glucose TREND:DEC,1,similar
+@@Pair:Temperature TREND:DEC@Overlaps@Blood Glucose TREND:DEC,2,similar
+@@Pair:Temperature TREND:DEC@Overlaps@Blood Glucose TREND:DEC,3,similar
+@@Pair:Temperature TREND:DEC@Overlaps@Blood Glucose TREND:DEC,4,similar
+@@Pair:Temperature TREND:DEC@Overlaps@Blood Glucose TREND:DEC,5,similar
+@@Pair:Temperature TREND:DEC@Overlaps@Blood Glucose TREND:DEC,6,similar
+@@Pair:Temperature TREND:DEC@Overlaps@Blood Glucose TREND:DEC,7,similar
+@@Pair:Temperature TREND:DEC@Overlaps@Blood Glucose TREND:DEC,8,similar
+@@Pair:Temperature TREND:DEC@Overlaps@Blood Glucose TREND:DEC,9,similar
+@@Pair:Temperature TREND:DEC@Overlaps@Blood Glucose TREND:INC,0,similar
+@@Pair:Temperature TREND:DEC@Overlaps@Blood Glucose TREND:INC,1,similar
+@@Pair:Temperature TREND:DEC@Overlaps@Blood Glucose TREND:INC,2,similar
+@@Pair:Temperature TREND:DEC@Overlaps@Blood Glucose TREND:INC,3,similar
+@@Pair:Temperature TREND:DEC@Overlaps@Blood Glucose TREND:INC,4,similar
+@@Pair:Temperature TREND:DEC@Overlaps@Blood Glucose TREND:INC,5,similar
+@@Pair:Temperature TREND:DEC@Overlaps@Blood Glucose TREND:INC,6,similar
+@@Pair:Temperature TREND:DEC@Overlaps@Blood Glucose TREND:INC,7,similar
+@@Pair:Temperature TREND:DEC@Overlaps@Blood Glucose TREND:INC,8,similar
+@@Pair:Temperature TREND:DEC@Overlaps@Blood Glucose TREND:INC,9,similar
+@@Pair:Temperature TREND:INC@Before_3@Temperature TREND:DEC,0,similar
+@@Pair:Temperature TREND:INC@Before_3@Temperature TREND:DEC,1,similar
+@@Pair:Temperature TREND:INC@Before_3@Temperature TREND:DEC,2,similar
+@@Pair:Temperature TREND:INC@Before_3@Temperature TREND:DEC,3,similar
+@@Pair:Temperature TREND:INC@Before_3@Temperature TREND:DEC,4,similar
+@@Pair:Temperature TREND:INC@Before_3@Temperature TREND:DEC,5,similar
+@@Pair:Temperature TREND:INC@Before_3@Temperature TREND:DEC,6,similar
+@@Pair:Temperature TREND:INC@Before_3@Temperature TREND:DEC,7,similar
+@@Pair:Temperature TREND:INC@Before_3@Temperature TREND:DEC,8,similar
+@@Pair:Temperature TREND:INC@Before_3@Temperature TREND:DEC,9,similar
+@@Pair:Temperature TREND:INC@Contain@Heart Rate STATE:HIGH,0,similar
+@@Pair:Temperature TREND:INC@Contain@Heart Rate STATE:HIGH,1,similar
+@@Pair:Temperature TREND:INC@Contain@Heart Rate STATE:HIGH,2,similar
+@@Pair:Temperature TREND:INC@Contain@Heart Rate STATE:HIGH,3,similar
+@@Pair:Temperature TREND:INC@Contain@Heart Rate STATE:HIGH,4,similar
+@@Pair:Temperature TREND:INC@Contain@Heart Rate STATE:HIGH,5,similar
+@@Pair:Temperature TREND:INC@Contain@Heart Rate STATE:HIGH,6,similar
+@@Pair:Temperature TREND:INC@Contain@Heart Rate STATE:HIGH,7,similar
+@@Pair:Temperature TREND:INC@Contain@Heart Rate STATE:HIGH,8,similar
+@@Pair:Temperature TREND:INC@Contain@Heart Rate STATE:HIGH,9,similar
+@@Pair:Temperature TREND:INC@Contain@Heart Rate STATE:NORMAL,0,similar
+@@Pair:Temperature TREND:INC@Contain@Heart Rate STATE:NORMAL,1,similar
+@@Pair:Temperature TREND:INC@Contain@Heart Rate STATE:NORMAL,2,similar
+@@Pair:Temperature TREND:INC@Contain@Heart Rate STATE:NORMAL,3,similar
+@@Pair:Temperature TREND:INC@Contain@Heart Rate STATE:NORMAL,4,similar
+@@Pair:Temperature TREND:INC@Contain@Heart Rate STATE:NORMAL,5,similar
+@@Pair:Temperature TREND:INC@Contain@Heart Rate STATE:NORMAL,6,similar
+@@Pair:Temperature TREND:INC@Contain@Heart Rate STATE:NORMAL,7,similar
+@@Pair:Temperature TREND:INC@Contain@Heart Rate STATE:NORMAL,8,similar
+@@Pair:Temperature TREND:INC@Contain@Heart Rate STATE:NORMAL,9,similar
+@@Pair:Temperature TREND:INC@Contain@Heart Rate TREND:DEC,0,similar
+@@Pair:Temperature TREND:INC@Contain@Heart Rate TREND:DEC,1,similar
+@@Pair:Temperature TREND:INC@Contain@Heart Rate TREND:DEC,2,similar
+@@Pair:Temperature TREND:INC@Contain@Heart Rate TREND:DEC,3,similar
+@@Pair:Temperature TREND:INC@Contain@Heart Rate TREND:DEC,4,similar
+@@Pair:Temperature TREND:INC@Contain@Heart Rate TREND:DEC,5,similar
+@@Pair:Temperature TREND:INC@Contain@Heart Rate TREND:DEC,6,similar
+@@Pair:Temperature TREND:INC@Contain@Heart Rate TREND:DEC,7,similar
+@@Pair:Temperature TREND:INC@Contain@Heart Rate TREND:DEC,8,similar
+@@Pair:Temperature TREND:INC@Contain@Heart Rate TREND:DEC,9,similar
+@@Pair:Temperature TREND:INC@Contain@Heart Rate TREND:INC,0,similar
+@@Pair:Temperature TREND:INC@Contain@Heart Rate TREND:INC,1,similar
+@@Pair:Temperature TREND:INC@Contain@Heart Rate TREND:INC,2,similar
+@@Pair:Temperature TREND:INC@Contain@Heart Rate TREND:INC,3,similar
+@@Pair:Temperature TREND:INC@Contain@Heart Rate TREND:INC,4,similar
+@@Pair:Temperature TREND:INC@Contain@Heart Rate TREND:INC,5,similar
+@@Pair:Temperature TREND:INC@Contain@Heart Rate TREND:INC,6,similar
+@@Pair:Temperature TREND:INC@Contain@Heart Rate TREND:INC,7,similar
+@@Pair:Temperature TREND:INC@Contain@Heart Rate TREND:INC,8,similar
+@@Pair:Temperature TREND:INC@Contain@Heart Rate TREND:INC,9,similar
+@@Pair:Temperature TREND:INC@Contain@Temperature STATE:HIGH,0,similar
+@@Pair:Temperature TREND:INC@Contain@Temperature STATE:HIGH,1,similar
+@@Pair:Temperature TREND:INC@Contain@Temperature STATE:HIGH,2,similar
+@@Pair:Temperature TREND:INC@Contain@Temperature STATE:HIGH,3,similar
+@@Pair:Temperature TREND:INC@Contain@Temperature STATE:HIGH,4,similar
+@@Pair:Temperature TREND:INC@Contain@Temperature STATE:HIGH,5,similar
+@@Pair:Temperature TREND:INC@Contain@Temperature STATE:HIGH,6,similar
+@@Pair:Temperature TREND:INC@Contain@Temperature STATE:HIGH,7,similar
+@@Pair:Temperature TREND:INC@Contain@Temperature STATE:HIGH,8,similar
+@@Pair:Temperature TREND:INC@Contain@Temperature STATE:HIGH,9,similar
+@@Pair:Temperature TREND:INC@Contain@Temperature STATE:NORMAL,0,similar
+@@Pair:Temperature TREND:INC@Contain@Temperature STATE:NORMAL,1,similar
+@@Pair:Temperature TREND:INC@Contain@Temperature STATE:NORMAL,2,similar
+@@Pair:Temperature TREND:INC@Contain@Temperature STATE:NORMAL,3,similar
+@@Pair:Temperature TREND:INC@Contain@Temperature STATE:NORMAL,4,similar
+@@Pair:Temperature TREND:INC@Contain@Temperature STATE:NORMAL,5,similar
+@@Pair:Temperature TREND:INC@Contain@Temperature STATE:NORMAL,6,similar
+@@Pair:Temperature TREND:INC@Contain@Temperature STATE:NORMAL,7,similar
+@@Pair:Temperature TREND:INC@Contain@Temperature STATE:NORMAL,8,similar
+@@Pair:Temperature TREND:INC@Contain@Temperature STATE:NORMAL,9,similar
+@@Pair:Temperature TREND:INC@Overlaps@Blood Glucose STATE:HIGH,0,similar
+@@Pair:Temperature TREND:INC@Overlaps@Blood Glucose STATE:HIGH,1,similar
+@@Pair:Temperature TREND:INC@Overlaps@Blood Glucose STATE:HIGH,2,similar
+@@Pair:Temperature TREND:INC@Overlaps@Blood Glucose STATE:HIGH,3,similar
+@@Pair:Temperature TREND:INC@Overlaps@Blood Glucose STATE:HIGH,4,similar
+@@Pair:Temperature TREND:INC@Overlaps@Blood Glucose STATE:HIGH,5,similar
+@@Pair:Temperature TREND:INC@Overlaps@Blood Glucose STATE:HIGH,6,similar
+@@Pair:Temperature TREND:INC@Overlaps@Blood Glucose STATE:HIGH,7,similar
+@@Pair:Temperature TREND:INC@Overlaps@Blood Glucose STATE:HIGH,8,similar
+@@Pair:Temperature TREND:INC@Overlaps@Blood Glucose STATE:HIGH,9,similar
+@@Pair:Temperature TREND:INC@Overlaps@Blood Glucose TREND:DEC,0,similar
+@@Pair:Temperature TREND:INC@Overlaps@Blood Glucose TREND:DEC,1,similar
+@@Pair:Temperature TREND:INC@Overlaps@Blood Glucose TREND:DEC,2,similar
+@@Pair:Temperature TREND:INC@Overlaps@Blood Glucose TREND:DEC,3,similar
+@@Pair:Temperature TREND:INC@Overlaps@Blood Glucose TREND:DEC,4,similar
+@@Pair:Temperature TREND:INC@Overlaps@Blood Glucose TREND:DEC,5,similar
+@@Pair:Temperature TREND:INC@Overlaps@Blood Glucose TREND:DEC,6,similar
+@@Pair:Temperature TREND:INC@Overlaps@Blood Glucose TREND:DEC,7,similar
+@@Pair:Temperature TREND:INC@Overlaps@Blood Glucose TREND:DEC,8,similar
+@@Pair:Temperature TREND:INC@Overlaps@Blood Glucose TREND:DEC,9,similar
+@@Pair:Temperature TREND:INC@Overlaps@Blood Glucose TREND:INC,0,similar
+@@Pair:Temperature TREND:INC@Overlaps@Blood Glucose TREND:INC,1,similar
+@@Pair:Temperature TREND:INC@Overlaps@Blood Glucose TREND:INC,2,similar
+@@Pair:Temperature TREND:INC@Overlaps@Blood Glucose TREND:INC,3,similar
+@@Pair:Temperature TREND:INC@Overlaps@Blood Glucose TREND:INC,4,similar
+@@Pair:Temperature TREND:INC@Overlaps@Blood Glucose TREND:INC,5,similar
+@@Pair:Temperature TREND:INC@Overlaps@Blood Glucose TREND:INC,6,similar
+@@Pair:Temperature TREND:INC@Overlaps@Blood Glucose TREND:INC,7,similar
+@@Pair:Temperature TREND:INC@Overlaps@Blood Glucose TREND:INC,8,similar
+@@Pair:Temperature TREND:INC@Overlaps@Blood Glucose TREND:INC,9,similar
+@@Pair:WBC STATE:HIGH@Contain@Blood Glucose TREND:DEC,0,similar
+@@Pair:WBC STATE:HIGH@Contain@Blood Glucose TREND:DEC,1,similar
+@@Pair:WBC STATE:HIGH@Contain@Blood Glucose TREND:DEC,2,similar
+@@Pair:WBC STATE:HIGH@Contain@Blood Glucose TREND:DEC,3,similar
+@@Pair:WBC STATE:HIGH@Contain@Blood Glucose TREND:DEC,4,similar
+@@Pair:WBC STATE:HIGH@Contain@Blood Glucose TREND:DEC,5,similar
+@@Pair:WBC STATE:HIGH@Contain@Blood Glucose TREND:DEC,6,similar
+@@Pair:WBC STATE:HIGH@Contain@Blood Glucose TREND:DEC,7,similar
+@@Pair:WBC STATE:HIGH@Contain@Blood Glucose TREND:DEC,8,similar
+@@Pair:WBC STATE:HIGH@Contain@Blood Glucose TREND:DEC,9,similar
+@@Pair:WBC STATE:HIGH@Contain@Neutrophils STATE:HIGH,0,similar
+@@Pair:WBC STATE:HIGH@Contain@Neutrophils STATE:HIGH,1,similar
+@@Pair:WBC STATE:HIGH@Contain@Neutrophils STATE:HIGH,2,similar
+@@Pair:WBC STATE:HIGH@Contain@Neutrophils STATE:HIGH,3,similar
+@@Pair:WBC STATE:HIGH@Contain@Neutrophils STATE:HIGH,4,similar
+@@Pair:WBC STATE:HIGH@Contain@Neutrophils STATE:HIGH,5,similar
+@@Pair:WBC STATE:HIGH@Contain@Neutrophils STATE:HIGH,6,not similar
+@@Pair:WBC STATE:HIGH@Contain@Neutrophils STATE:HIGH,7,similar
+@@Pair:WBC STATE:HIGH@Contain@Neutrophils STATE:HIGH,8,similar
+@@Pair:WBC STATE:HIGH@Contain@Neutrophils STATE:HIGH,9,similar
+@@Pair:WBC STATE:HIGH@Contain@WBC TREND:DEC,0,similar
+@@Pair:WBC STATE:HIGH@Contain@WBC TREND:DEC,1,similar
+@@Pair:WBC STATE:HIGH@Contain@WBC TREND:DEC,2,similar
+@@Pair:WBC STATE:HIGH@Contain@WBC TREND:DEC,3,similar
+@@Pair:WBC STATE:HIGH@Contain@WBC TREND:DEC,4,similar
+@@Pair:WBC STATE:HIGH@Contain@WBC TREND:DEC,5,similar
+@@Pair:WBC STATE:HIGH@Contain@WBC TREND:DEC,6,similar
+@@Pair:WBC STATE:HIGH@Contain@WBC TREND:DEC,7,similar
+@@Pair:WBC STATE:HIGH@Contain@WBC TREND:DEC,8,similar
+@@Pair:WBC STATE:HIGH@Contain@WBC TREND:DEC,9,similar
+@@Pair:WBC STATE:HIGH@Contain@WBC TREND:SAME,0,similar
+@@Pair:WBC STATE:HIGH@Contain@WBC TREND:SAME,1,similar
+@@Pair:WBC STATE:HIGH@Contain@WBC TREND:SAME,2,similar
+@@Pair:WBC STATE:HIGH@Contain@WBC TREND:SAME,3,similar
+@@Pair:WBC STATE:HIGH@Contain@WBC TREND:SAME,4,similar
+@@Pair:WBC STATE:HIGH@Contain@WBC TREND:SAME,5,similar
+@@Pair:WBC STATE:HIGH@Contain@WBC TREND:SAME,6,similar
+@@Pair:WBC STATE:HIGH@Contain@WBC TREND:SAME,7,similar
+@@Pair:WBC STATE:HIGH@Contain@WBC TREND:SAME,8,similar
+@@Pair:WBC STATE:HIGH@Contain@WBC TREND:SAME,9,similar
+@@Pair:WBC STATE:NORMAL@Contain@Neutrophils STATE:NORMAL,0,similar
+@@Pair:WBC STATE:NORMAL@Contain@Neutrophils STATE:NORMAL,1,similar
+@@Pair:WBC STATE:NORMAL@Contain@Neutrophils STATE:NORMAL,2,similar
+@@Pair:WBC STATE:NORMAL@Contain@Neutrophils STATE:NORMAL,3,similar
+@@Pair:WBC STATE:NORMAL@Contain@Neutrophils STATE:NORMAL,4,similar
+@@Pair:WBC STATE:NORMAL@Contain@Neutrophils STATE:NORMAL,5,similar
+@@Pair:WBC STATE:NORMAL@Contain@Neutrophils STATE:NORMAL,6,similar
+@@Pair:WBC STATE:NORMAL@Contain@Neutrophils STATE:NORMAL,7,similar
+@@Pair:WBC STATE:NORMAL@Contain@Neutrophils STATE:NORMAL,8,similar
+@@Pair:WBC STATE:NORMAL@Contain@Neutrophils STATE:NORMAL,9,similar
+@@Pair:WBC STATE:NORMAL@Contain@Neutrophils TREND:SAME,0,similar
+@@Pair:WBC STATE:NORMAL@Contain@Neutrophils TREND:SAME,1,not similar
+@@Pair:WBC STATE:NORMAL@Contain@Neutrophils TREND:SAME,2,similar
+@@Pair:WBC STATE:NORMAL@Contain@Neutrophils TREND:SAME,3,similar
+@@Pair:WBC STATE:NORMAL@Contain@Neutrophils TREND:SAME,4,similar
+@@Pair:WBC STATE:NORMAL@Contain@Neutrophils TREND:SAME,5,similar
+@@Pair:WBC STATE:NORMAL@Contain@Neutrophils TREND:SAME,6,similar
+@@Pair:WBC STATE:NORMAL@Contain@Neutrophils TREND:SAME,7,similar
+@@Pair:WBC STATE:NORMAL@Contain@Neutrophils TREND:SAME,8,similar
+@@Pair:WBC STATE:NORMAL@Contain@Neutrophils TREND:SAME,9,similar
+@@Pair:WBC STATE:NORMAL@Contain@Neutrophils TREND:SAME@@Pair:WBC STATE:NORMAL@Contain@WBC TREND:SAME@@Pair:WBC TREND:SAME@Contain@Neutrophils TREND:SAME,0,similar
+@@Pair:WBC STATE:NORMAL@Contain@Neutrophils TREND:SAME@@Pair:WBC STATE:NORMAL@Contain@WBC TREND:SAME@@Pair:WBC TREND:SAME@Contain@Neutrophils TREND:SAME,1,similar
+@@Pair:WBC STATE:NORMAL@Contain@Neutrophils TREND:SAME@@Pair:WBC STATE:NORMAL@Contain@WBC TREND:SAME@@Pair:WBC TREND:SAME@Contain@Neutrophils TREND:SAME,2,similar
+@@Pair:WBC STATE:NORMAL@Contain@Neutrophils TREND:SAME@@Pair:WBC STATE:NORMAL@Contain@WBC TREND:SAME@@Pair:WBC TREND:SAME@Contain@Neutrophils TREND:SAME,3,similar
+@@Pair:WBC STATE:NORMAL@Contain@Neutrophils TREND:SAME@@Pair:WBC STATE:NORMAL@Contain@WBC TREND:SAME@@Pair:WBC TREND:SAME@Contain@Neutrophils TREND:SAME,4,similar
+@@Pair:WBC STATE:NORMAL@Contain@Neutrophils TREND:SAME@@Pair:WBC STATE:NORMAL@Contain@WBC TREND:SAME@@Pair:WBC TREND:SAME@Contain@Neutrophils TREND:SAME,5,similar
+@@Pair:WBC STATE:NORMAL@Contain@Neutrophils TREND:SAME@@Pair:WBC STATE:NORMAL@Contain@WBC TREND:SAME@@Pair:WBC TREND:SAME@Contain@Neutrophils TREND:SAME,6,similar
+@@Pair:WBC STATE:NORMAL@Contain@Neutrophils TREND:SAME@@Pair:WBC STATE:NORMAL@Contain@WBC TREND:SAME@@Pair:WBC TREND:SAME@Contain@Neutrophils TREND:SAME,7,similar
+@@Pair:WBC STATE:NORMAL@Contain@Neutrophils TREND:SAME@@Pair:WBC STATE:NORMAL@Contain@WBC TREND:SAME@@Pair:WBC TREND:SAME@Contain@Neutrophils TREND:SAME,8,similar
+@@Pair:WBC STATE:NORMAL@Contain@Neutrophils TREND:SAME@@Pair:WBC STATE:NORMAL@Contain@WBC TREND:SAME@@Pair:WBC TREND:SAME@Contain@Neutrophils TREND:SAME,9,similar
+@@Pair:WBC STATE:NORMAL@Contain@WBC TREND:SAME,0,similar
+@@Pair:WBC STATE:NORMAL@Contain@WBC TREND:SAME,1,similar
+@@Pair:WBC STATE:NORMAL@Contain@WBC TREND:SAME,2,similar
+@@Pair:WBC STATE:NORMAL@Contain@WBC TREND:SAME,3,similar
+@@Pair:WBC STATE:NORMAL@Contain@WBC TREND:SAME,4,similar
+@@Pair:WBC STATE:NORMAL@Contain@WBC TREND:SAME,5,similar
+@@Pair:WBC STATE:NORMAL@Contain@WBC TREND:SAME,6,similar
+@@Pair:WBC STATE:NORMAL@Contain@WBC TREND:SAME,7,similar
+@@Pair:WBC STATE:NORMAL@Contain@WBC TREND:SAME,8,similar
+@@Pair:WBC STATE:NORMAL@Contain@WBC TREND:SAME,9,similar
+@@Pair:WBC TREND:SAME@Contain@Neutrophils STATE:NORMAL,0,similar
+@@Pair:WBC TREND:SAME@Contain@Neutrophils STATE:NORMAL,1,similar
+@@Pair:WBC TREND:SAME@Contain@Neutrophils STATE:NORMAL,2,similar
+@@Pair:WBC TREND:SAME@Contain@Neutrophils STATE:NORMAL,3,similar
+@@Pair:WBC TREND:SAME@Contain@Neutrophils STATE:NORMAL,4,similar
+@@Pair:WBC TREND:SAME@Contain@Neutrophils STATE:NORMAL,5,similar
+@@Pair:WBC TREND:SAME@Contain@Neutrophils STATE:NORMAL,6,similar
+@@Pair:WBC TREND:SAME@Contain@Neutrophils STATE:NORMAL,7,similar
+@@Pair:WBC TREND:SAME@Contain@Neutrophils STATE:NORMAL,8,similar
+@@Pair:WBC TREND:SAME@Contain@Neutrophils STATE:NORMAL,9,similar
+@@Pair:WBC TREND:SAME@Contain@Neutrophils TREND:SAME,0,similar
+@@Pair:WBC TREND:SAME@Contain@Neutrophils TREND:SAME,1,similar
+@@Pair:WBC TREND:SAME@Contain@Neutrophils TREND:SAME,2,similar
+@@Pair:WBC TREND:SAME@Contain@Neutrophils TREND:SAME,3,similar
+@@Pair:WBC TREND:SAME@Contain@Neutrophils TREND:SAME,4,similar
+@@Pair:WBC TREND:SAME@Contain@Neutrophils TREND:SAME,5,similar
+@@Pair:WBC TREND:SAME@Contain@Neutrophils TREND:SAME,6,similar
+@@Pair:WBC TREND:SAME@Contain@Neutrophils TREND:SAME,7,similar
+@@Pair:WBC TREND:SAME@Contain@Neutrophils TREND:SAME,8,similar
+@@Pair:WBC TREND:SAME@Contain@Neutrophils TREND:SAME,9,similar
