@@ -2,3 +2,4 @@ KarmaLego[[:space:]]Runs/** filter=lfs diff=lfs merge=lfs -text
 Statistics/** filter=lfs diff=lfs merge=lfs -text
 KarmaLego[[:space:]]Runs/Heart[[:space:]]Attack/Results/*.txt filter=lfs diff=lfs merge=lfs -text
 KarmaLego[[:space:]]Runs/Heart[[:space:]]Attack/Results/* filter=lfs diff=lfs merge=lfs -text
+KarmaLego[[:space:]]Runs/Hypoglycemia/Results/*.txt filter=lfs diff=lfs merge=lfs -text
