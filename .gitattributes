@@ -15,3 +15,5 @@ KarmaLego[[:space:]]Runs/prolonged_hyperglycemia_over_200/Configuration/*.txt fi
 KarmaLego[[:space:]]Runs/prolonged_hyperglycemia_over_200/Configuration/*.json filter=lfs diff=lfs merge=lfs -text
 Statistics/Heart[[:space:]]Attack/**/*.txt filter=lfs diff=lfs merge=lfs -text
 Statistics/Heart[[:space:]]Attack/**/*.csv filter=lfs diff=lfs merge=lfs -text
+Statistics/Hypoglycemia/**/*.txt filter=lfs diff=lfs merge=lfs -text
+Statistics/Hypoglycemia/**/*.csv filter=lfs diff=lfs merge=lfs -text
